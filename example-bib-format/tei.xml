@@ -1,0 +1,35 @@
+<!-- Minimal and invalid TEI document -->
+<TEI xml:id="śisūvi-test-crit" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bibliography example</title>
+        <author>Patrick McAllister</author>
+        <respStmt>
+          <name>Patrick McAllister</name>
+          <resp>Created file</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Patrick McAllister</authority>
+        <date>2025</date>
+      </publicationStmt>
+      <sourceDesc>
+	<!-- @corresp points at the bib file -->
+        <listBibl corresp="bib.bib"/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>Nothing special here.</p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- no @xml:id on tei:bibl -->
+      <p>See the explanations in <bibl><ref target="#chue22:_fair4rs"/><citedRange unit="page">12</citedRange></bibl>.</p>
+      <p><bibl><ref target="#creamer21:_archive_tei_fair"/><citedRange
+      unit="page">8</citedRange></bibl> states ... .</p>
+      <p><bibl><ref target="#pva_ms"/><citedRange>12a3--6</citedRange></bibl>...</p>
+    </body>
+  </text>
+</TEI>

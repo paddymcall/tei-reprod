@@ -72,7 +72,7 @@
                                 ".tar.gz"))
             (sha256 ;; get this with guix download ....tar.gz
              (base32
-              "18b1f87slh1x9qpxsfp0h4f1pprgkjqqycvqk7wm163jrfmd62xf"))))
+              "1ssd8qaynsfqc92vx7shz0qk0l91497vwcrfp6bvq86zwy3s7yck"))))
    (build-system gnu-build-system)
    ;; native-inputs: for the build process (architecture build machine)
    (native-inputs
