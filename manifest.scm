@@ -64,7 +64,7 @@
   ;; See https://guix.gnu.org/manual/en/html_node/package-Reference.html
   (package
    (name "guile-stei")
-   (version "0.3.6.2-6ce8")
+   (version "0.3.6")
    (source (origin
             (method url-fetch)
             (uri (string-append "https://rdorte.org/pma/guile-stei-"
@@ -72,7 +72,7 @@
                                 ".tar.gz"))
             (sha256 ;; get this with guix download ....tar.gz
              (base32
-              "01bb4ykm7lc86qccmp60izbxn892ks9ghpkdkjp52sbwvv6gg2ld"))))
+              "0qkwpblrk70pxrnwbmxvqpw27y1s5pnhqz9xhklz8yrd1gg4v14l"))))
    (build-system gnu-build-system)
    ;; native-inputs: for the build process (architecture build machine)
    (native-inputs

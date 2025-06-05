@@ -1,0 +1,19 @@
+#+TITLE: TEI Vegest Reproducibility Examples
+#+AUTHOR: Patrick McAllister
+
+This repository provdies examples for [TODO -> Article].
+
+
+The idea is to run all the transformations in the example directories
+(~./example-*~) without changing the state of the repository.  Any
+change would indicate that the transformations are not reproducible.
+
+The suggested way to run the transformations is:
+
+#+begin_src bash
+  make clean
+  make all
+  git status
+#+end_src
+
+The last git command should output "nothing to commit, working tree clean".
