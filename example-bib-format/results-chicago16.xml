@@ -1,0 +1,33 @@
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="śisūvi-test-crit">
+  <tei:teiHeader>
+    <tei:fileDesc>
+      <tei:titleStmt>
+        <tei:title>Bibliography example</tei:title>
+        <tei:author>Patrick McAllister</tei:author>
+        <tei:respStmt>
+          <tei:name>Patrick McAllister</tei:name>
+          <tei:resp>Created file</tei:resp>
+        </tei:respStmt>
+      </tei:titleStmt>
+      <tei:publicationStmt>
+        <tei:authority>Patrick McAllister</tei:authority>
+        <tei:date>2025</tei:date>
+      </tei:publicationStmt>
+      <tei:sourceDesc>
+	
+        <tei:listBibl corresp="bib.bib" />
+      </tei:sourceDesc>
+    </tei:fileDesc>
+    <tei:encodingDesc>
+      <tei:p>Nothing special here.</tei:p>
+    </tei:encodingDesc>
+  </tei:teiHeader>
+  <tei:text>
+    <tei:body>
+      
+      <tei:p>See the explanations in <tei:bibl ana="#csl-rendered-bib">(Chue Hong et al. 2022, 12)</tei:bibl>.</tei:p>
+      <tei:p><tei:bibl ana="#csl-rendered-bib">(Creamer et al. 2021, 8)</tei:bibl> states ... .</tei:p>
+      <tei:p><tei:bibl ana="#csl-rendered-bib">(Prajñākaragupta 1998, 12a3--6)</tei:bibl>...</tei:p>
+    </tei:body>
+  </tei:text>
+</tei:TEI>

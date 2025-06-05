@@ -64,7 +64,7 @@
   ;; See https://guix.gnu.org/manual/en/html_node/package-Reference.html
   (package
    (name "guile-stei")
-   (version "0.3.6")
+   (version "0.3.6.2-6ce8")
    (source (origin
             (method url-fetch)
             (uri (string-append "https://rdorte.org/pma/guile-stei-"
@@ -72,7 +72,7 @@
                                 ".tar.gz"))
             (sha256 ;; get this with guix download ....tar.gz
              (base32
-              "1ssd8qaynsfqc92vx7shz0qk0l91497vwcrfp6bvq86zwy3s7yck"))))
+              "01bb4ykm7lc86qccmp60izbxn892ks9ghpkdkjp52sbwvv6gg2ld"))))
    (build-system gnu-build-system)
    ;; native-inputs: for the build process (architecture build machine)
    (native-inputs
@@ -116,7 +116,7 @@
            (files (list "./")))))
    (synopsis "Software collection to use VEGEST schemas")
    (description "VEGEST — Vienna Encoding Guidelines for Editing Sanskrit Texts — is the name of the IKGA’s (https://www.oeaw.ac.at/ikga) effort to develop a set of guidelines for editing works produced in the tradition of Sanskrit literary culture. These guidelines come with a versatile software toolkit that facilitates the integration of the VEGEST standard into running editorial projects and the production of high-quality publications from the encoded texts.")
-   (home-page "https://gitlab.oeaw.ac.at/vegest/vegest-lib/")
+   (home-page "https://gitlab.oeaw.ac.at/vegest/guile-stei/")
    (license license:gpl3+)))
 
 (concatenate-manifests

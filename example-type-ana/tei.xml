@@ -1,0 +1,33 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <sourceDesc>
+      <listBibl>
+	<bibl xml:id="dimitrov02:_tables_old_bengal_scrip">Dimitrov, Dragomir. 2002. “Tables of the Old Bengali Script.” In Śikhisamuccayaḥ: Indian and Tibetan Studies (Collectanea Marpurgensia Indologica et Tibetica), edited by Dragomir Dimitrov, Ulrike Roesler, and Roland Steiner, 27–78. WSTB 53. Vienna: Arbeitskreis.</bibl>
+      </listBibl>
+    </sourceDesc>
+    <encodingDesc>
+      <p>Transcribed numerals are analysed according to
+      <bibl><ref
+      target="#dimitrov02:_tables_old_bengal_scrip"/><citedRange>§1.3</citedRange></bibl>:
+      <interpGrp xml:id="old-bengali">
+	<desc>Elements from <bibl><ref target="#dimitrov02:_tables_old_bengal_scrip"/><citedRange>pp59-71</citedRange></bibl></desc>
+	<interp xml:id="old-bengali-numerals">
+	  <interp xml:id="old-bengali-numerals-4" corresp="type:num4">
+      	    <desc>Number 4 as shown in <bibl><ref target="#dimitrov02:_tables_old_bengal_scrip"/><citedRange>§1.3</citedRange></bibl>.</desc>
+	  </interp>
+	  <interp xml:id="old-bengali-numerals-6" corresp="type:num6">
+      	    <desc>Number 6 as shown in <bibl><ref target="#dimitrov02:_tables_old_bengal_scrip"/><citedRange>§1.3</citedRange></bibl>.</desc>
+	  </interp>
+	</interp>
+      </interpGrp>
+      </p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="sa">
+      <!-- These two are supposed to be equivalent: -->
+      <p><c ana="#old-bengali-numerals-4">4</c> <c ana="#old-bengali-numerals-6">6</c></p>
+      <p><c type="num4">4</c> <c type="num6">6</c></p>
+    </body>
+  </text>
+</TEI>
