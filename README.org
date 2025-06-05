@@ -1,4 +1,4 @@
-#+TITLE: TEI Vegest Reproducibility Examples
+#+TITLE: TEI Workflow Reproducibility Examples
 #+AUTHOR: Patrick McAllister
 
 This repository provdies examples for [TODO -> Article].
