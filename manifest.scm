@@ -70,9 +70,9 @@
             (uri (string-append "https://rdorte.org/pma/guile-stei-"
 				version
                                 ".tar.gz"))
-            (sha256 ;; get this with guix download ....tar.gz
+            (sha256 ;; Get this with guix download https://rdorte.org/pma/guile-stei-<version>.tar.gz
              (base32
-              "0qkwpblrk70pxrnwbmxvqpw27y1s5pnhqz9xhklz8yrd1gg4v14l"))))
+              "07mx0jp54pc3fxlmw6dpcl5izdglmq7gmg04gxh336j87mz78g80"))))
    (build-system gnu-build-system)
    ;; native-inputs: for the build process (architecture build machine)
    (native-inputs

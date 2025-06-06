@@ -1,0 +1,1118 @@
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="jatinirakrti" xml:lang="en">
+  <tei:teiHeader xml:lang="en">
+    <tei:fileDesc xml:lang="en">
+      <tei:titleStmt xml:lang="en">
+	<tei:title xml:lang="en">Jātinirākṛti</tei:title>
+	<tei:author xml:lang="en">Jitāri</tei:author>
+	<tei:funder xml:lang="en">German Research Foundation (DFG); Project "SARIT: Enriching Digital Text Collections in Indology" (Bilalteral Digital Humanities Programme DFG/NEH), 2013-2017</tei:funder>
+	<tei:principal xml:lang="en">
+	  <tei:persName xml:lang="en">Birgit Kellner</tei:persName>
+	</tei:principal>
+	<tei:respStmt xml:lang="en">
+	  <tei:resp xml:lang="en">data entry by</tei:resp>
+	  <tei:name key="aurorachana" xml:lang="en">Aurorachana, Auroville</tei:name>
+	</tei:respStmt>
+	<tei:respStmt xml:id="sarit-encoder-jāni" xml:lang="en">
+	  <tei:resp xml:lang="en">prepared for SARIT by</tei:resp>
+	  <tei:persName ref="https://viaf.org/viaf/308710472/" xml:lang="en">Liudmila Olalde</tei:persName>
+	</tei:respStmt>
+      </tei:titleStmt>
+      <tei:editionStmt xml:lang="en">
+	<tei:p xml:lang="en"> </tei:p>
+      </tei:editionStmt>
+      <tei:publicationStmt xml:lang="en">
+	<tei:publisher xml:lang="en">"Project SARIT: Enriching Digital Text Collections in Indology" (Bilalteral Digital Humanities Programme DFG/NEH), 2013-2017.</tei:publisher>
+	<tei:availability status="restricted" xml:lang="en">
+	  <tei:p xml:lang="en">Copyright Notice:</tei:p>
+	  <tei:p xml:lang="en">Copyright 2016-2018 SARIT</tei:p>
+	  <tei:licence xml:lang="en"> 
+	    <tei:p xml:lang="en">Distributed under a <tei:ref target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="en">Creative Commons Attribution-ShareAlike 4.0 International licence.</tei:ref> Under this licence, you are free to:</tei:p>
+	    <tei:list xml:lang="en">
+	      <tei:item xml:lang="en">Share — copy and redistribute the material in any medium or format.</tei:item> <tei:item xml:lang="en">Adapt — remix, transform, and build upon the material for any purpose, even commercially.</tei:item>
+	    </tei:list>
+	    <tei:p xml:lang="en">The licensor cannot revoke these freedoms as long as you follow the license terms.</tei:p>
+	    <tei:p xml:lang="en">Under the following terms:</tei:p>
+	    <tei:list xml:lang="en">
+	      <tei:item xml:lang="en">Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</tei:item>
+	      <tei:item xml:lang="en">ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</tei:item>
+	    </tei:list>
+	    <tei:p xml:lang="en">More information and fuller details of this license are given on the Creative Commons website.</tei:p>
+	  </tei:licence>
+	  <tei:p xml:lang="en">SARIT assumes no responsibility for unauthorised use that infringes the
+	  rights of any copyright owners, known or unknown.</tei:p>
+	</tei:availability>
+	<tei:date xml:lang="en">2016</tei:date>
+      </tei:publicationStmt>
+
+      <tei:sourceDesc xml:lang="en">
+	<tei:biblStruct xml:id="jāni-buehnemann-1982" xml:lang="en">
+	  <tei:analytic xml:lang="en">
+	    <tei:title level="a" xml:lang="en">Jātinirākṛti</tei:title>
+	    <tei:author xml:lang="en">Jitāri</tei:author>
+	  </tei:analytic>
+	  <tei:monogr xml:lang="en">
+	    <tei:title level="m" xml:lang="en">Jitāri: Kleine Texte</tei:title>
+	    <tei:author xml:lang="en">Jitāri</tei:author>
+	    <tei:editor xml:id="jāni-bue" xml:lang="en"><tei:forename xml:lang="en">Gudrun</tei:forename> <tei:surname xml:lang="en">Bühnemann</tei:surname></tei:editor>
+	    <tei:imprint xml:lang="en">
+	      <tei:publisher xml:lang="en">Arbeitskreis für tibetische und buddhisitsche Studien Universität Wien</tei:publisher>
+	      <tei:pubPlace xml:lang="en">Wien</tei:pubPlace>
+	      <tei:date xml:lang="en">1982</tei:date>
+	      <tei:biblScope unit="pp" xml:lang="en">30-38</tei:biblScope>
+	    </tei:imprint>
+	  </tei:monogr>
+	  <tei:series xml:lang="en">
+	    <tei:title level="s" xml:lang="en">Wiener Studien zur Tibetologie und Buddhismskunde</tei:title>
+	    <tei:biblScope unit="heft" xml:lang="en">8</tei:biblScope>
+	  </tei:series>
+	  <tei:note xml:lang="en"><tei:title xml:lang="en">Kleine Texte</tei:title> is an edition of: <tei:title xml:lang="en">Vedāprāmāṇyasiddhi</tei:title>, <tei:title xml:lang="en">Sarvajñasiddhi</tei:title>, <tei:title xml:lang="en">Nairātmyasiddhi</tei:title>, <tei:title xml:lang="en">Jātinirākṛti</tei:title>, and <tei:title xml:lang="en">*Īśvaravādimataparīkṣa</tei:title>. Bühneman's edition is based on the manuscript described below.</tei:note>
+	</tei:biblStruct>
+
+	<tei:listWit xml:lang="en">
+	  <tei:witness xml:id="jāni-ms" xml:lang="en">
+	    <tei:msDesc xml:lang="en">
+	      <tei:msIdentifier xml:lang="en">
+		<tei:settlement xml:lang="en">Patna</tei:settlement>
+		<tei:repository xml:lang="en">Bihar Research Society</tei:repository>
+		<tei:idno xml:lang="en">Glass plate negatives IA, IB, IIA, and  IIB.</tei:idno>
+		<tei:altIdentifier xml:lang="en">
+		  <tei:idno xml:lang="en" />
+		  <tei:note xml:lang="en">See manuscript description in <tei:bibl xml:lang="en">JBORS 21. 1935, pt. I, 41. No. 33(2) 158</tei:bibl>; <tei:bibl xml:lang="en">JBORS 23. 1937, pt. I, 55, No. 27</tei:bibl>.</tei:note>
+		</tei:altIdentifier>
+	      </tei:msIdentifier>
+	      <tei:msContents xml:lang="en">
+		<tei:msItem n="1" xml:lang="en">
+		  <tei:author xml:lang="en">Jitāri</tei:author>
+		  <tei:title xml:lang="en">Apohasiddhi</tei:title>
+		</tei:msItem>
+		<tei:msItem n="2" xml:lang="en">
+		  <tei:author xml:lang="en">Jitāri</tei:author>
+		  <tei:title xml:lang="en">Kṣaṇajabhaṅga</tei:title>
+		</tei:msItem>
+		<tei:msItem n="3" xml:lang="en">
+		  <tei:author xml:lang="en">Jitāri</tei:author>
+		  <tei:title xml:lang="en">Śrutikartṛsiddhi</tei:title>
+		</tei:msItem>
+		<tei:msItem n="4" xml:lang="en">
+		  <tei:locus xml:lang="en">IB.1.14; IA.1.14; IB.2.10; IA.2.10; IB.2.11; IA.2.11; IB.2.13; IA.2.13</tei:locus>
+		  <tei:author xml:lang="en">Jitāri</tei:author>
+		  <tei:title xml:lang="en">Vedāprāmāṇyasiddhi</tei:title>
+		</tei:msItem>
+		<tei:msItem n="5" xml:lang="en">
+		  <tei:locus xml:lang="en">IA.2.13 (Fol. Nr. 23a); IB.2.14 (Fol. Nr. 24b); IA.2.14; IB.2.15 (Fol. Nr. 25)</tei:locus><tei:note xml:lang="en">one folio is missing (23b und 24a)</tei:note>
+		  <tei:author xml:lang="en">Jitāri</tei:author>
+		  <tei:title xml:lang="en">Sarvajñasiddhi</tei:title>
+		</tei:msItem>
+		<tei:msItem n="6" xml:lang="en">
+		  <tei:author xml:lang="en">Jitāri</tei:author>
+		  <tei:title xml:lang="en">Vyāpakānupalambha</tei:title>
+		</tei:msItem>
+		<tei:msItem n="7" xml:lang="en">
+		  <tei:locus xml:lang="en">IB.2.7; IA.2.7</tei:locus>
+		  <tei:author xml:lang="en">Jitāri</tei:author>
+		  <tei:title xml:lang="en">Nairātmyasiddhi</tei:title>
+		</tei:msItem>
+		<tei:msItem n="8" xml:lang="en">
+		  <tei:locus xml:lang="en">IB.2.9; IA.2.9; IIB.4; IIA.4; IIB.5; IIA.5; IIB.7; IIA.7; IIB.8; IIA.8.</tei:locus>
+		  <tei:author xml:lang="en">Jitāri</tei:author>
+		  <tei:title xml:lang="en">Jātinirākṛti</tei:title>
+		</tei:msItem>
+		<tei:msItem n="9" xml:lang="en">
+		  <tei:locus xml:lang="en">IIB.9; IIA.9; IIB.6; IIA.6; IIB.11; IIA.11; IIB.10; IIA.10; IIB.12; IIA.12</tei:locus>
+		  <tei:author xml:lang="en">Jitāri</tei:author>
+		  <tei:title xml:lang="en">*Īśvaravādimataparīkṣa</tei:title>
+		</tei:msItem>
+		<tei:msItem n="10" xml:lang="en">
+		  <tei:locus xml:lang="en">IIA.13</tei:locus>
+		  <tei:title xml:lang="en" />
+		  <tei:note xml:lang="en">Not identified.</tei:note>
+		</tei:msItem>
+	      </tei:msContents>
+	      <tei:physDesc xml:lang="en">
+		<tei:objectDesc xml:lang="en">
+		  <tei:p xml:lang="en"><tei:note xml:lang="en">This is the description given by Bühnemann in the introduction (in German) to the her <tei:ref target="#jāni-buehnemann-1982" xml:lang="en">1982 edition</tei:ref>, pp. 8-9.</tei:note>Low quality photographs of the manuscript, which is therefore difficult to read. Only parts of the manuscript were photographed; the beginning and the end are missing, as well as  other folios. The preserved folios are not arranged in order. The numbers given on the margin seem not to correspond to the reconstructed sequence of the folios (for this reason Bühneman did not reproduced them in her edition). The script is Proto-Maithili. The manuscript has several mistakes.</tei:p>
+		  <tei:p xml:lang="en">The references to the folios are by number of the glass plate, column, and folio number (counting from the top to the bottom), e.g. IA.2.13 = glass plate IA, colum 2, folio 13.</tei:p>
+		</tei:objectDesc>
+	      </tei:physDesc>
+	      <tei:history xml:lang="en">
+		<tei:p xml:lang="en">Rāhula Sāṅkṛtyāyana took pictures of the manuscripts in Tibet <tei:note xml:lang="en">Cf. Bühneman's introduction to her <tei:ref target="#jāni-buehnemann-1982" xml:lang="en">1982 edition</tei:ref>, pp. 8-9</tei:note>.</tei:p>
+	      </tei:history>
+	    </tei:msDesc>
+	  </tei:witness>
+	  <tei:witness xml:id="jāni-T" xml:lang="en">
+	    <tei:biblStruct sameAs="http://east.uni-hd.de/buddh/ind/26/75/566/" xml:lang="en">
+	      <tei:analytic xml:lang="en">
+		<tei:author xml:lang="en">Giuseppe Tucci</tei:author>
+		<tei:title level="a" xml:lang="en">Jātinirākṛti of Jitāri</tei:title>
+	      </tei:analytic>
+	      <tei:monogr xml:lang="en">
+		<tei:title level="j" xml:lang="en">Annals of the Bhandarkar Oriental Research Institute</tei:title>
+		<tei:imprint xml:lang="en">
+			<tei:biblScope unit="vol" xml:lang="en">11</tei:biblScope>
+			<tei:biblScope unit="pp" xml:lang="en">54-58</tei:biblScope>		
+  <tei:date xml:lang="en">1930</tei:date>
+		</tei:imprint>
+	      </tei:monogr>
+	    </tei:biblStruct>
+	  </tei:witness>
+	  <tei:witness xml:id="jāni-I" xml:lang="en">
+	    <tei:biblStruct sameAs="http://east.uni-hd.de/buddh/ind/26/75/570/" xml:lang="en">
+	      <tei:monogr xml:lang="en">
+		<tei:author xml:lang="en">H. R. Rangaswamy Iyengar</tei:author>
+		<tei:title xml:lang="en">Tarkabhāṣa and Vādasthāna of Mokṣākaragupta and Jitāripāda</tei:title>
+				<tei:imprint xml:lang="en">
+		  <tei:publisher xml:lang="en">Hindusthan Press</tei:publisher>
+		  <tei:pubPlace xml:lang="en">Mysore</tei:pubPlace>
+		  <tei:date xml:lang="en">1952</tei:date>
+					<tei:biblScope unit="pp" xml:lang="en">72-80</tei:biblScope>
+		  <tei:note xml:lang="en">2nd edition; 1st edition 1944</tei:note>
+		</tei:imprint>
+	      </tei:monogr>
+	    </tei:biblStruct>
+	  </tei:witness>
+	</tei:listWit>
+      </tei:sourceDesc>
+    </tei:fileDesc>
+    <tei:encodingDesc xml:lang="en">
+      <tei:p xml:lang="en">
+  <tei:list xml:lang="en">
+	<tei:item xml:lang="en">Line breaks: In the source file, there were two types of line breaks: returns (and possible surrounding space) and hyphens+returns. These were replaced with lb-elements. The ed-attribute "gb" refers to Bühnemann's <tei:ref target="#jāni-buehnemann-1982" xml:lang="en">1982 edition</tei:ref>.</tei:item>
+	<tei:item xml:lang="en">The glass plate numbers were encoded as pb-elements with the edRef-attribute "#jāni-ms".</tei:item>
+	<tei:item xml:lang="en">The corresponding page an line number in <tei:ref target="#jāni-T" xml:lang="en">Tucci</tei:ref>'s and <tei:ref target="#jāni-I" xml:lang="en">Iyengar</tei:ref>'s editions were encoded as pb-elements with the edRef-attribute "#jāni-T" and "#jāni-I" respectively.</tei:item>
+	<tei:item xml:lang="en">The variant readings in the footnotes were enclosed in a <prfx1:egXML xmlns:prfx1="http://www.tei-c.org/ns/Examples" xml:lang="en">
+    <prfx1:q type="variant" xml:lang="en" />
+  </prfx1:egXML>.</tei:item>
+	<tei:item xml:lang="en">References were enclosed in a ref-element.</tei:item>
+	<tei:item xml:lang="en">Square brackets were encoded as <tei:gi xml:lang="en">surplus</tei:gi>. This follows <tei:ref target="#jāni-buehnemann-1982" xml:lang="en">Bühnemann 1982</tei:ref> p. 48: <tei:q xml:lang="de">[ ] auszulassen</tei:q>.</tei:item>
+      	<tei:item xml:lang="en">Angle brackets were encoded as <tei:gi xml:lang="en">supplied</tei:gi>. This 	follows <tei:ref target="#jāni-buehnemann-1982" xml:lang="en">Bühnemann 1982</tei:ref> p. 48: <tei:q xml:lang="de">&lt; &gt; zu ergänzen</tei:q>.</tei:item>
+	<tei:item xml:lang="en">The footnotes were encoded as note-elements with their corresponding n-attribute. The footnote references were replaced with the corresponding note. Line breaks in the notes have been removed</tei:item>
+      </tei:list>
+</tei:p>
+      <tei:p xml:lang="en">Abbreviations used in the cRef-attributes in this file. The editions are those consulted by Bühnemann:
+      <tei:list ana="abbreviations" xml:lang="en">
+	<tei:item xml:lang="en">āmī = <tei:bibl xml:lang="en"><tei:title xml:lang="en">Āptamīmāṃsā</tei:title> by <tei:author xml:lang="en">Samantabhadra</tei:author>, ed. <tei:editor xml:lang="en">Gajādharalāl Jaina</tei:editor>. <tei:pubPlace xml:lang="en">Benares</tei:pubPlace> <tei:date xml:lang="en">1914</tei:date>.</tei:bibl></tei:item>
+	<tei:item xml:lang="en">nsū = Nyāyasūtra. <tei:bibl xml:lang="en"><tei:title xml:lang="en">Nyāyadarśana. The Sūtras of Gotama and Bhāṣya of Vātsyāyana</tei:title>. 2nd. ed. by <tei:editor xml:lang="en">Ḍhuṇḍhirāja Shāstrī</tei:editor>. <tei:pubPlace xml:lang="en">Benares</tei:pubPlace> <tei:date xml:lang="en">1970</tei:date></tei:bibl>.</tei:item>
+	<tei:item xml:lang="en">nv = Nyāyavārttika: <tei:bibl xml:lang="en"><tei:title xml:lang="en">Nyāyadarśana-Vātsyāyana-bhāṣyopabṛṃhaṇam. pararṣibhāradvāj-Oddyotakara-viracitam</tei:title>. <tei:editor xml:lang="en">V. P. Dvivedin</tei:editor>. <tei:pubPlace xml:lang="en">Benares</tei:pubPlace> <tei:date xml:lang="en">1916</tei:date>.</tei:bibl></tei:item>
+	<tei:item xml:lang="en">śv = <tei:bibl xml:lang="en"><tei:title xml:lang="en">Ślokavārttika of Śrī Kumārila Bhaṭṭa. With the Commentary Nyāyaratnākara of Śrī Pārthasārathi Miśra</tei:title>, ed. and rev. by <tei:editor xml:lang="en">Swāmī Dvārikādāsa Śāstrī</tei:editor>. <tei:pubPlace xml:lang="en">Benares</tei:pubPlace>. <tei:date xml:lang="en">1978</tei:date></tei:bibl>. Chapters:
+	<tei:list xml:lang="en">
+	  <tei:item xml:lang="en">śv-ākṛti = Ślokavārttika Ākṛtivāda </tei:item>
+	  <tei:item xml:lang="en">śv-śūnya = Ślokavārttika Śūnyavāda</tei:item>
+	</tei:list>
+      </tei:item></tei:list>
+      </tei:p>
+    </tei:encodingDesc>
+    <tei:profileDesc xml:lang="en">
+      
+    </tei:profileDesc>
+    <tei:revisionDesc xml:lang="en">
+    	<tei:change when="2017-03-25" who="https://viaf.org/viaf/308710472/" xml:lang="en">For a complete history of the changes in this file go to <tei:ref target="https://github.com/sarit/SARIT-corpus/commits/master/jitari-jatinirakrti.xml" xml:lang="en">SARIT GitHub Repository</tei:ref>.</tei:change>
+    </tei:revisionDesc>
+
+  </tei:teiHeader>
+
+<tei:text xml:lang="sa-Latn">
+<tei:body xml:lang="sa-Deva">
+<tei:div xml:lang="sa-Latn"><tei:pb ed="gb" n="30" xml:lang="sa-Latn" />
+<tei:head xml:lang="sa-Latn">जातिनिराकृति</tei:head><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:anchor corresp="#vegest-1378" xml:id="vegest-1379" />
+<tei:pb edRef="#jāni-T" n="T.56" xml:lang="sa-Latn" /><tei:pb edRef="#jāni-ms" n="IB.2.9" xml:lang="sa-Latn" /><tei:epigraph xml:lang="sa-Latn">
+  <tei:p xml:lang="sa-Latn">नमः समन्तभद्राय<tei:anchor corresp="#vegest-1381" xml:id="vegest-1382" /> ||</tei:p>
+</tei:epigraph><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:lg xml:lang="sa-Latn"><tei:l xml:lang="sa-Latn">मुग्धाङ्गुलीकिसलयाङ्घ्रिसुवर्णकुम्भ<tei:anchor corresp="#vegest-1384" xml:id="vegest-1385" /></tei:l><tei:lb break="no" ed="gb" xml:lang="sa-Latn" />
+<tei:l xml:lang="sa-Latn">वान्तेन कान्तिपयसा घुसृणारुणेन |</tei:l><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:l xml:lang="sa-Latn">यो वन्दमानम् अभिषिञ्चति<tei:anchor corresp="#vegest-1387" xml:id="vegest-1388" /> धर्मराज्ये</tei:l><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:l xml:lang="sa-Latn">जागर्तु वो हितसुखाय स मञ्जुवज्रः<tei:anchor corresp="#vegest-1390" xml:id="vegest-1391" /> |<tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied></tei:l><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:l xml:lang="sa-Latn"><tei:pb edRef="#jāni-I" n="I.72" xml:lang="sa-Latn" /> <tei:anchor corresp="#vegest-1393" xml:id="vegest-1394" />सुहृदाम् अनुरोधेन यथामति यथास्मृति<tei:anchor corresp="#vegest-1396" xml:id="vegest-1397" /> <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied></tei:l><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:l xml:lang="sa-Latn">ह्रियं विहाय लिख्यन्ते वादस्थानानि कानिचित्<tei:anchor corresp="#vegest-1399" xml:id="vegest-1400" /> |<tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied></tei:l></tei:lg><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">तत्र तावद् आदौ जातिवाद एव निराक्रियते |<tei:lb ed="gb" xml:lang="sa-Latn" />
+इह<tei:anchor corresp="#vegest-1402" xml:id="vegest-1403" /> यद् यद्<tei:anchor corresp="#vegest-1405" xml:id="vegest-1406" /> वस्तुनो भेदाभेदाभ्याम् अभिधेयं न भवति |<tei:lb ed="gb" xml:lang="sa-Latn" />
+तत् तत्<tei:anchor corresp="#vegest-1408" xml:id="vegest-1409" /> सर्वं<tei:anchor corresp="#vegest-1411" xml:id="vegest-1412" /> वस्तु न भवति |<tei:lb ed="gb" xml:lang="sa-Latn" />
+यथा व्योमकमलम् |<tei:lb ed="gb" xml:lang="sa-Latn" />
+न च वस्तुनो<tei:anchor corresp="#vegest-1414" xml:id="vegest-1415" /> भेदाभेदाभ्याम् अभिधेयं सामान्यम् इति व्या<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />पकानुपलब्धिः |<tei:lb ed="gb" xml:lang="sa-Latn" />
+न तावद् अयम् असिद्धो हेतुः |<tei:lb ed="gb" xml:lang="sa-Latn" />
+न हि व्यक्तिभ्यो भिन्नम् अभिन्नं वा सामान्यं शक्यम् अभिधातुम्<tei:lb ed="gb" xml:lang="sa-Latn" />
+उभयथाप्य् असामान्यस्वभावताप्रसङ्गात्<tei:anchor corresp="#vegest-1417" xml:id="vegest-1418" /> | तथा हि यदि ता<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />वद् व्यक्तिभ्यो <tei:anchor corresp="#vegest-1420" xml:id="vegest-1421" />अर्थान्तरम् एव सामान्याभिमतं<tei:anchor corresp="#vegest-1423" xml:id="vegest-1424" /> वस्तु तदा<tei:lb ed="gb" xml:lang="sa-Latn" />
+कथं<tei:anchor corresp="#vegest-1426" xml:id="vegest-1427" /> तत् तासां सामान्यं नाम | यत् खलु यतो ऽर्थान्तरं<tei:lb ed="gb" xml:lang="sa-Latn" />
+न तत् तस्य सामान्यम् | यथा गोर् अश्वः | अर्थान्तरं च गोर्<tei:anchor corresp="#vegest-1429" xml:id="vegest-1430" /><tei:lb ed="gb" xml:lang="sa-Latn" />
+गोत्वम् इति विरुद्धव्याप्तोपलब्धिः<tei:anchor corresp="#vegest-1432" xml:id="vegest-1433" /> |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">ननु<tei:anchor corresp="#vegest-1435" xml:id="vegest-1436" /> च व्यक्तिभ्यो अर्था <tei:pb edRef="#jāni-ms" n="IA.2.9" xml:lang="sa-Latn" />न्तरं च स्यात् <tei:surplus resp="#jāni-bue" xml:lang="sa-Latn">|</tei:surplus> सामा<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />न्यं च तासाम् इति न<tei:anchor corresp="#vegest-1438" xml:id="vegest-1439" /> विरोधं<tei:anchor corresp="#vegest-1441" xml:id="vegest-1442" /> पश्यामः | न चैतन् मन्त<tei:lb break="no" ed="gb" xml:lang="sa-Latn" /><tei:pb edRef="#jāni-I" n="I.73" xml:lang="sa-Latn" /> व्यम् अर्थान्तरं चेद् अर्थान्तरस्य सामान्यं <tei:anchor corresp="#vegest-1444" xml:id="vegest-1445" />सर्वं सर्वस्य<tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:pb ed="gb" n="31" xml:lang="sa-Latn" />
+सामान्यं स्यात् विशेषाभावाद् इति |<tei:surplus resp="#jāni-bue" xml:lang="sa-Latn">|</tei:surplus> यद् धि खल्व् एकं<tei:anchor corresp="#vegest-1447" xml:id="vegest-1448" /> वस्त्व्<tei:lb ed="gb" xml:lang="sa-Latn" />
+अनेकत्र<tei:anchor corresp="#vegest-1450" xml:id="vegest-1451" /> समवेतं<tei:anchor corresp="#vegest-1453" xml:id="vegest-1454" /> तत्<tei:anchor corresp="#vegest-1456" xml:id="vegest-1457" /> तदीयं सामान्यम् | गोषु चाश्वो न<tei:lb ed="gb" xml:lang="sa-Latn" />
+समवेत इति कथम् असौ गवां सामान्यं स्याद् इति कुतो विशे<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />षाभावः | तद् अयम् अनैकान्तिको हेतुः कथम् इष्टसिद्धये<tei:lb ed="gb" xml:lang="sa-Latn" />
+पर्याप्नुयात्<tei:anchor corresp="#vegest-1459" xml:id="vegest-1460" /> |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">तद् एतद् अपि बालप्रलापम् अनुहरति<tei:anchor corresp="#vegest-1462" xml:id="vegest-1463" /> | स हि विशेषो बु<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />द्धिमता वक्तव्यो यः सामान्याभिमतपदार्थमात्रभावी<tei:anchor corresp="#vegest-1465" xml:id="vegest-1466" /> सन्<tei:lb ed="gb" xml:lang="sa-Latn" />
+न संकरेण<tei:anchor corresp="#vegest-1468" xml:id="vegest-1469" /> व्यवस्थाम् उपपादयेत् | अयं चानेकसमवायः<tei:anchor corresp="#vegest-1471" xml:id="vegest-1472" /><tei:lb ed="gb" xml:lang="sa-Latn" />
+संख्यासंयोगकार्यद्रव्यादिष्व्<tei:anchor corresp="#vegest-1474" xml:id="vegest-1475" /> अप्य् अस्तीति तान्य् अपि संख्यादि<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />संमतानि<tei:anchor corresp="#vegest-1477" xml:id="vegest-1478" /> सामान्यानि स्युः |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">अथ<tei:anchor corresp="#vegest-1480" xml:id="vegest-1481" /> मन्येताः | सत्य् अपि अनेकार्थसमवाये यद् एव स<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />मानज्ञानाभिधानप्रवृत्तिनिमित्तं तद् एव सामान्यं नान्यत्<tei:anchor corresp="#vegest-1483" xml:id="vegest-1484" /> |<tei:lb ed="gb" xml:lang="sa-Latn" />
+समानानां<tei:anchor corresp="#vegest-1486" xml:id="vegest-1487" /> हि<tei:anchor corresp="#vegest-1489" xml:id="vegest-1490" /> भावः सामान्यं <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied> भवतो अस्मा<tei:pb edRef="#jāni-ms" n="IIB.4" xml:lang="sa-Latn" />द्<tei:anchor corresp="#vegest-1492" xml:id="vegest-1493" /><tei:lb ed="gb" xml:lang="sa-Latn" />
+अभिधानप्रत्ययाव् इति च<tei:anchor corresp="#vegest-1495" xml:id="vegest-1496" /> भावः | तद् आहाक्षपादः<tei:anchor corresp="#vegest-1498" xml:id="vegest-1499" /> |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn"><tei:anchor corresp="#vegest-1501" xml:id="vegest-1502" />समानप्रसवात्मिका<tei:anchor corresp="#vegest-1504" xml:id="vegest-1505" /> जातिर् इति |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">एतद् अपि स्वप्रक्रियामात्रपरिदीपनम्<tei:anchor corresp="#vegest-1507" xml:id="vegest-1508" /> | तथा ह्य् अत्र <tei:surplus resp="#jāni-bue" xml:lang="sa-Latn">|</tei:surplus> <tei:pb edRef="#jāni-I" n="I.74" xml:lang="sa-Latn" /><tei:lb ed="gb" xml:lang="sa-Latn" />
+विकल्पद्वितयम्<tei:anchor corresp="#vegest-1510" xml:id="vegest-1511" /> उदयते | किं ते<tei:anchor corresp="#vegest-1513" xml:id="vegest-1514" /> स्वरूपेण समानाः स्वहे<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />तोर्<tei:anchor corresp="#vegest-1516" xml:id="vegest-1517" /> उत्पन्ना येषु तत्सामान्यं तथाविधबोधाभिधानप्रव<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />णम्<tei:anchor corresp="#vegest-1519" xml:id="vegest-1520" /> आहोस्विद् असमाना एवेति |<tei:lb ed="gb" xml:lang="sa-Latn" />
+तत्र यदि<tei:anchor corresp="#vegest-1522" xml:id="vegest-1523" /> ते<tei:anchor corresp="#vegest-1525" xml:id="vegest-1526" /> स्वत एव समानाः समाने<tei:anchor corresp="#vegest-1528" xml:id="vegest-1529" /> ज्ञानाभिधाने<tei:anchor corresp="#vegest-1531" xml:id="vegest-1532" /> <tei:pb edRef="#jāni-T" n="T.57" xml:lang="sa-Latn" /><tei:lb ed="gb" xml:lang="sa-Latn" />
+स्वयम् एव प्रवर्तयिष्यन्ति <tei:surplus resp="#jāni-bue" xml:lang="sa-Latn">|</tei:surplus> किं तत्र सामान्येनार्थान्त<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />रेण | तथा च तद् असामान्यम् एव <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied> तद्बलेन समानयोर्<tei:anchor corresp="#vegest-1534" xml:id="vegest-1535" /><tei:lb ed="gb" xml:lang="sa-Latn" />
+ज्ञानाभिधानयोर् अवृत्तेः<tei:anchor corresp="#vegest-1537" xml:id="vegest-1538" /> |<tei:lb ed="gb" xml:lang="sa-Latn" />
+अथासमानाः <tei:surplus resp="#jāni-bue" xml:lang="sa-Latn">|</tei:surplus> न तर्हि तेषां सामान्यम् अस्ति | समानानां हि<tei:anchor corresp="#vegest-1540" xml:id="vegest-1541" /><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:pb ed="gb" n="32" xml:lang="sa-Latn" />
+भावः सामान्यम् इत्य् उक्तवान् असि<tei:anchor corresp="#vegest-1543" xml:id="vegest-1544" /> | असमानानां<tei:anchor corresp="#vegest-1546" xml:id="vegest-1547" /> च<tei:anchor corresp="#vegest-1549" xml:id="vegest-1550" /> भावः सा<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />मान्यम् इति ब्रुवाणः<tei:anchor corresp="#vegest-1552" xml:id="vegest-1553" /> श्लाघनीयप्रज्ञो<tei:anchor corresp="#vegest-1555" xml:id="vegest-1556" /> देवानांप्रियः |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">स्वयम् असमानस्वभावा अपि तेनैव समानास् त इति चेत् |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">किं<tei:anchor corresp="#vegest-1558" xml:id="vegest-1559" /> ते क्रियन्ते आहोस्विद्<tei:anchor corresp="#vegest-1561" xml:id="vegest-1562" /> अध्यवसीयन्ते<tei:anchor corresp="#vegest-1564" xml:id="vegest-1565" /> | <tei:pb edRef="#jāni-ms" n="IIA.4" xml:lang="sa-Latn" /> तत्र<tei:lb ed="gb" xml:lang="sa-Latn" />
+न तावत् क्रियन्ते तेषां स्वहेतुभिर् एव कृतत्वात् | कृतस्य च<tei:lb ed="gb" xml:lang="sa-Latn" />
+पुनः करणायोगात् | अभूतप्रादुर्भावलक्षणत्वात् करणस्य |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">समानात्मना क्रियन्त इति चेत् |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">ननु येषां निष्पन्नतया कृञः<tei:anchor corresp="#vegest-1567" xml:id="vegest-1568" /> कर्मता नास्ति कथं ते<tei:lb ed="gb" xml:lang="sa-Latn" />
+क्रियन्ते नाम |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">स्याद् एतत् | येन धर्मिरूपेण<tei:anchor corresp="#vegest-1570" xml:id="vegest-1571" /> ते निष्पन्ना<tei:anchor corresp="#vegest-1573" xml:id="vegest-1574" /> न तेन क<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />रोतेः कर्मभावम् अनुभवन्ति | समानेन<tei:anchor corresp="#vegest-1576" xml:id="vegest-1577" /> रूपेण<tei:anchor corresp="#vegest-1579" xml:id="vegest-1580" /> निष्पन्नाः<tei:lb ed="gb" xml:lang="sa-Latn" />
+क्रियन्त<tei:anchor corresp="#vegest-1582" xml:id="vegest-1583" /> इति न किंचिद् अत्रानुपपन्नम्<tei:anchor corresp="#vegest-1585" xml:id="vegest-1586" /> |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">एवं तर्हि तद् एव समानं रूपं सामान्येन क्रियत<tei:anchor corresp="#vegest-1588" xml:id="vegest-1589" /> इति<tei:lb ed="gb" xml:lang="sa-Latn" />
+	स्यात् | तस्य च<tei:anchor corresp="#vegest-1591" xml:id="vegest-1592" /> भावनिष्पत्तव्<tei:anchor corresp="#vegest-1594" xml:id="vegest-1595" /> अनिष्पन्नस्य कारणान्तरतः<tei:lb ed="gb" xml:lang="sa-Latn" />
+पश्चाद् उपजायमानस्य तद्भावता<tei:anchor corresp="#vegest-1597" xml:id="vegest-1598" /> ब्रह्मणाप्य् अशक्या<tei:anchor corresp="#vegest-1600" xml:id="vegest-1601" /> साध<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />यितुम् <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied></tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">अर्थान्तरम् एव तद् भवतु न किंचिद् अनिष्टम् आपद्यत<tei:lb ed="gb" xml:lang="sa-Latn" />
+इति चेत् |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn"><tei:pb edRef="#jāni-I" n="I.75" xml:lang="sa-Latn" /> सामान्यान्तरम् एव तर्हि तन् नित्यसामान्यजन्यम्<tei:anchor corresp="#vegest-1603" xml:id="vegest-1604" /> अभ्युपे<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />तं स्यात् | तथा च तद् अपि<tei:anchor corresp="#vegest-1606" xml:id="vegest-1607" /> भेदानाम् असमानानां कथं सामा<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />न्यम् इ<tei:pb edRef="#jāni-ms" n="IIB.5" xml:lang="sa-Latn" />ति पर्यनुयोगे<tei:anchor corresp="#vegest-1609" xml:id="vegest-1610" /> तेनापि तद्व्यतिरिक्तसमानरूप<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />करणोपगमे<tei:anchor corresp="#vegest-1612" xml:id="vegest-1613" /> सत्य् अपरापरकार्यसामान्यपरिकल्पनात्मकम्<tei:anchor corresp="#vegest-1615" xml:id="vegest-1616" /><tei:lb ed="gb" xml:lang="sa-Latn" />
+अनवस्थानम् अप्रतिविधानम् आसज्येत<tei:anchor corresp="#vegest-1618" xml:id="vegest-1619" /> | न च<tei:anchor corresp="#vegest-1621" xml:id="vegest-1622" /> भेदानाम्<tei:lb ed="gb" xml:lang="sa-Latn" />
+असमानरूपं<tei:anchor corresp="#vegest-1624" xml:id="vegest-1625" /> प्रच्यवेत<tei:anchor corresp="#vegest-1627" xml:id="vegest-1628" /> |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:pb ed="gb" n="33" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">नापि द्वितीयपक्षाश्रयणं<tei:anchor corresp="#vegest-1630" xml:id="vegest-1631" /> श्रेयः | न ह्य् अन्येनान्ये समाना<tei:lb ed="gb" xml:lang="sa-Latn" />
+नाम प्रतीयन्ते <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied> तद्वन्तो<tei:anchor corresp="#vegest-1633" xml:id="vegest-1634" /> नाम प्रतीयेरन् | भूतवत् क<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />ण्ठे<tei:anchor corresp="#vegest-1636" xml:id="vegest-1637" /> गुणेन <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied> अन्यथा हि येन केनचिद्<tei:anchor corresp="#vegest-1639" xml:id="vegest-1640" /> अन्येन ये केचन<tei:lb ed="gb" xml:lang="sa-Latn" />
+समानाः प्रतीयेरन् प्रतिनियमनिबन्धनाभावात्<tei:anchor corresp="#vegest-1642" xml:id="vegest-1643" /> |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">एकेनानेकसमवायिनान्येनान्ये<tei:anchor corresp="#vegest-1645" xml:id="vegest-1646" /> समानाः प्रतीयन्ते | ततो<tei:lb ed="gb" xml:lang="sa-Latn" />
+नातिप्रसङ्ग<tei:anchor corresp="#vegest-1648" xml:id="vegest-1649" /> इति चेत् |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn"><tei:anchor corresp="#vegest-1651" xml:id="vegest-1652" />न खल्व् अवयविद्रव्यद्वित्वादिसंख्यानाम् अप्य् एकत्वानेक<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />समवायित्वे<tei:anchor corresp="#vegest-1654" xml:id="vegest-1655" /> न<tei:anchor corresp="#vegest-1657" xml:id="vegest-1658" /> स्तः<tei:anchor corresp="#vegest-1660" xml:id="vegest-1661" /> <tei:surplus resp="#jāni-bue" xml:lang="sa-Latn">|</tei:surplus> येन तेभ्यो ऽवयवादयो न तथा<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />वगम्येरन्<tei:anchor corresp="#vegest-1663" xml:id="vegest-1664" /> |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">अथ तेषां स्वाश्रयेषु समानज्ञानाभिधानविधानसामर्थ्या<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />भावाद्<tei:anchor corresp="#vegest-1666" xml:id="vegest-1667" /> अदोष एषः |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">ननु सामान्यम् अपि भेदेष्व् एकत्वानेकसमवा<tei:pb edRef="#jāni-ms" n="IIA.5" xml:lang="sa-Latn" />याभ्याम्<tei:lb ed="gb" xml:lang="sa-Latn" />
+एव समानप्रत्ययाप्रत्ययतया<tei:anchor corresp="#vegest-1669" xml:id="vegest-1670" /> परिकल्पितम् | तौ<tei:anchor corresp="#vegest-1672" xml:id="vegest-1673" /> चावय<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />व्यादीनाम्<tei:anchor corresp="#vegest-1675" xml:id="vegest-1676" /> अपि युष्माभिर्<tei:anchor corresp="#vegest-1678" xml:id="vegest-1679" /> अभ्युपेताव् इति तेषाम् अपि तथाभावः<tei:lb ed="gb" xml:lang="sa-Latn" />
+कथम् अपाक्रियेत<tei:anchor corresp="#vegest-1681" xml:id="vegest-1682" /> |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">असामान्यस्वभावत्वान्<tei:anchor corresp="#vegest-1684" xml:id="vegest-1685" /> न ते समानज्ञानहेतव<tei:anchor corresp="#vegest-1687" xml:id="vegest-1688" /> इति चेत् |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">ननु समानज्ञानहेतुत्वे सति सामान्यस्वभावता<tei:anchor corresp="#vegest-1690" xml:id="vegest-1691" /> <tei:surplus resp="#jāni-bue" xml:lang="sa-Latn">|</tei:surplus> तस्यां<tei:lb ed="gb" xml:lang="sa-Latn" />
+च सत्यां समानज्ञानहेतुत्वम् इति स्थिरम्<tei:anchor corresp="#vegest-1693" xml:id="vegest-1694" /> इतरेतराश्रय<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />त्वम्<tei:anchor corresp="#vegest-1696" xml:id="vegest-1697" /> | तथा ह्य्<tei:anchor corresp="#vegest-1699" xml:id="vegest-1700" /> एकत्वादेः<tei:anchor corresp="#vegest-1702" xml:id="vegest-1703" /> समानत्वात्<tei:anchor corresp="#vegest-1705" xml:id="vegest-1706" /> <tei:surplus resp="#jāni-bue" xml:lang="sa-Latn">|</tei:surplus> सामान्याभि<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />मतभाववद् आरब्धद्रव्यादेर्<tei:anchor corresp="#vegest-1708" xml:id="vegest-1709" /> अपि किं न सामान्यरूपतेति प-<tei:pb edRef="#jāni-I" n="I.76" xml:lang="sa-Latn" /><tei:lb ed="gb" xml:lang="sa-Latn" />
+र्यनुयोगे<tei:anchor corresp="#vegest-1711" xml:id="vegest-1712" /> समानप्रत्ययाप्रत्ययत्वाद्<tei:anchor corresp="#vegest-1714" xml:id="vegest-1715" /> इत्य् उत्तरम् उक्तवान्<tei:lb ed="gb" xml:lang="sa-Latn" />
+असि<tei:anchor corresp="#vegest-1717" xml:id="vegest-1718" /> | ततस् तद् अपि समानप्रतीतिनिमित्तत्वं<tei:anchor corresp="#vegest-1720" xml:id="vegest-1721" /> निमित्तस्य<tei:anchor corresp="#vegest-1723" xml:id="vegest-1724" /><tei:lb ed="gb" xml:lang="sa-Latn" />
+समानत्वात् समानम् अवयव्यादेर् अपि किं न स्याद् इत्य् अस्मदीये<tei:anchor corresp="#vegest-1726" xml:id="vegest-1727" /><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:pb ed="gb" n="34" xml:lang="sa-Latn" />
+पुनः पर्यनुयोगे<tei:anchor corresp="#vegest-1729" xml:id="vegest-1730" /> सत्य् असामान्यरूपत्वाद् इति ब्रुवाणः<tei:anchor corresp="#vegest-1732" xml:id="vegest-1733" /> <tei:surplus resp="#jāni-bue" xml:lang="sa-Latn">|</tei:surplus><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:anchor corresp="#vegest-1735" xml:id="vegest-1736" />कथम् इतरेतराश्रयदोषान् मुक्तिम् आसादयसि <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied> एतेनैतद्<tei:lb ed="gb" xml:lang="sa-Latn" />
+अपि प्रयुक्तं यद् उक्तम् उद्द्योतकरेण<tei:anchor corresp="#vegest-1738" xml:id="vegest-1739" /> <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied> <tei:pb edRef="#jāni-ms" n="IIB.7" xml:lang="sa-Latn" /> <tei:anchor corresp="#vegest-1741" xml:id="vegest-1742" />न<tei:anchor corresp="#vegest-1744" xml:id="vegest-1745" /> गवि<tei:lb ed="gb" xml:lang="sa-Latn" />
+गोत्वं येन<tei:anchor corresp="#vegest-1747" xml:id="vegest-1748" /> गोत्वयोगात् <tei:surplus resp="#jāni-bue" xml:lang="sa-Latn">|</tei:surplus> प्राग् गौर् एवासाव् इति व्यर्थं<tei:lb ed="gb" xml:lang="sa-Latn" />
+गोत्वं स्यात् | अपि तु यदैव वस्तु तदैव गोत्वेन संबध्य<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />ते | गोत्वयोगात्<tei:anchor corresp="#vegest-1750" xml:id="vegest-1751" /> प्राग् वस्त्व् एव नास्ति <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied> न चाविद्यमानं<tei:lb ed="gb" xml:lang="sa-Latn" />
+गौर् इति वा<tei:anchor corresp="#vegest-1753" xml:id="vegest-1754" /> अगौर् इति<tei:anchor corresp="#vegest-1756" xml:id="vegest-1757" /> वा शक्यं व्यपदेष्टुम् इति |<tei:lb ed="gb" xml:lang="sa-Latn" />
+तथा हि यदैव वस्तु तदैव<tei:anchor corresp="#vegest-1759" xml:id="vegest-1760" /> यदि गोरूपं<tei:anchor corresp="#vegest-1762" xml:id="vegest-1763" /> तत्<tei:anchor corresp="#vegest-1765" xml:id="vegest-1766" /> स्वहेतोर्<tei:lb ed="gb" xml:lang="sa-Latn" />
+उत्पन्नं किं तस्यान्येन गोत्वेन | अथागोरूपं न तर्हि तस्या<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />श्वादेर्<tei:anchor corresp="#vegest-1768" xml:id="vegest-1769" /> इव गोत्वेन सह संबन्धः स्यात् | न ह्य् अगोर्<tei:anchor corresp="#vegest-1771" xml:id="vegest-1772" /> भावो<tei:lb ed="gb" xml:lang="sa-Latn" />
+गोत्वं नाम | तस्मान् नार्थान्तरम् अर्थान्तरस्य<tei:anchor corresp="#vegest-1774" xml:id="vegest-1775" /> सामान्यम् इत्य्<tei:lb ed="gb" xml:lang="sa-Latn" />
+असामान्यरूपतयार्थान्तरत्वं व्याप्तं सामान्यात्मताम् अपहस्त<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />यतीति<tei:anchor corresp="#vegest-1777" xml:id="vegest-1778" /> कुतो अनेकान्तः |<tei:lb ed="gb" xml:lang="sa-Latn" />
+अभिन्नम् एव तर्हि सामान्यम्<tei:anchor corresp="#vegest-1780" xml:id="vegest-1781" /> अस्त्व्<tei:anchor corresp="#vegest-1783" xml:id="vegest-1784" /> इति<tei:anchor corresp="#vegest-1786" xml:id="vegest-1787" /> व्यतिरिक्तसामान्यनि<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />राकरणे<tei:anchor corresp="#vegest-1789" xml:id="vegest-1790" /> दत्तसाहाय्यकः<tei:anchor corresp="#vegest-1792" xml:id="vegest-1793" /> सांख्य इदानीं प्रत्यवतिष्ठते |<tei:lb ed="gb" xml:lang="sa-Latn" />
+स एवं<tei:anchor corresp="#vegest-1795" xml:id="vegest-1796" /> वक्तव्यः | किं नु वै भवान् व्यक्तीनां सामान्यसं<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />ज्ञाकरणकाम<tei:anchor corresp="#vegest-1798" xml:id="vegest-1799" /> आहोस्विद्<tei:anchor corresp="#vegest-1801" xml:id="vegest-1802" /> आत्मातिशयप्रतिपादनकामः | आद्ये<tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:pb edRef="#jāni-I" n="I.77" xml:lang="sa-Latn" /> पक्षे न किंचि<tei:pb edRef="#jāni-ms" n="IIA.7" xml:lang="sa-Latn" />त् क्षीयते<tei:anchor corresp="#vegest-1804" xml:id="vegest-1805" /> | न हि<tei:anchor corresp="#vegest-1807" xml:id="vegest-1808" /> वयं नाम्नि विव<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />दामहे | द्वितीयो ऽपि<tei:anchor corresp="#vegest-1810" xml:id="vegest-1811" /> पक्षो महतीं मनोराज्यसंपदम् आवे<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />दयति | तथा ह्य् अत्रापि विकल्पद्वयम् उदयते | किं व्यक्ति<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />भ्यः सामान्यस्याभेदः<tei:anchor corresp="#vegest-1813" xml:id="vegest-1814" /> | उत व्यक्तीनां सामान्याद् इति |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:pb ed="gb" n="35" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">आद्ये<tei:anchor corresp="#vegest-1816" xml:id="vegest-1817" /> विकल्पे<tei:anchor corresp="#vegest-1819" xml:id="vegest-1820" /> व्यक्तिवद् अनेकत्वम् अनित्यत्वं<tei:anchor corresp="#vegest-1822" xml:id="vegest-1823" /> च सामान्यस्य<tei:lb ed="gb" xml:lang="sa-Latn" />
+स्याद् <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied> इति<tei:anchor corresp="#vegest-1825" xml:id="vegest-1826" /> प्रयोगः | व्यक्तिभ्यो यद् अभिन्नं तद् अनेकम्<tei:lb ed="gb" xml:lang="sa-Latn" />
+अनित्यं च यथा तासां प्रातिस्विकं<tei:anchor corresp="#vegest-1828" xml:id="vegest-1829" /> रूपं <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied> व्यक्तिभ्यश्<tei:lb ed="gb" xml:lang="sa-Latn" />
+चाभिन्नं<tei:anchor corresp="#vegest-1831" xml:id="vegest-1832" /> सामान्यम् इति स्वभावहेतुप्रसङ्गः<tei:anchor corresp="#vegest-1834" xml:id="vegest-1835" /> | नानैकान्ति<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />को हेतुर् एकत्वनित्यत्वयोः सामान्यस्य विरुद्धधर्माध्यासेन<tei:lb ed="gb" xml:lang="sa-Latn" />
+व्यक्तिभ्यः सुखादिभ्य इव चैतन्यस्यैकान्तेन<tei:anchor corresp="#vegest-1837" xml:id="vegest-1838" /> भेदप्र<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />सङ्गात्<tei:anchor corresp="#vegest-1840" xml:id="vegest-1841" /> |<tei:lb ed="gb" xml:lang="sa-Latn" />
+अपरस्मिन् पुनर् विकल्पे सामान्यवद् व्यक्तीनाम्<tei:anchor corresp="#vegest-1843" xml:id="vegest-1844" /> अप्य् एकत्वनित्य<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />त्वे स्याताम् | प्रयोगः | यद् सामान्याद् अभिन्नं न तद् भिन्नं<tei:lb ed="gb" xml:lang="sa-Latn" />
+अनित्यं च यथा तस्यैव सामान्यता<tei:anchor corresp="#vegest-1846" xml:id="vegest-1847" /> | सामान्याद्<tei:anchor corresp="#vegest-1849" xml:id="vegest-1850" /> अभिन्नम्<tei:lb ed="gb" xml:lang="sa-Latn" />
+च व्यक्तीनां रूपम् इति <tei:surplus resp="#jāni-bue" xml:lang="sa-Latn">|</tei:surplus> व्यापकविरुद्धोपलब्धिप्र <tei:pb edRef="#jāni-ms" n="IIB.8" xml:lang="sa-Latn" /><tei:lb break="no" ed="gb" xml:lang="sa-Latn" />सङ्गः<tei:anchor corresp="#vegest-1852" xml:id="vegest-1853" /> | न चानेकान्तः<tei:anchor corresp="#vegest-1855" xml:id="vegest-1856" /> <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied> सामान्याद् अभिन्नं हि सामान्यम्<tei:lb ed="gb" xml:lang="sa-Latn" />
+एव | तच् चैकं नित्यं चेति<tei:anchor corresp="#vegest-1858" xml:id="vegest-1859" /> कथं तद् अभिन्नं भिन्नम्<tei:lb ed="gb" xml:lang="sa-Latn" />
+अनित्यं च नाम | एवं हि<tei:anchor corresp="#vegest-1861" xml:id="vegest-1862" /> ब्रुवाणः सामान्यम् एवानेकम्<tei:anchor corresp="#vegest-1864" xml:id="vegest-1865" /> अनि<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />त्यं<tei:anchor corresp="#vegest-1867" xml:id="vegest-1868" /> च ब्रूयात् | तस्य च साक्षाद् एकत्वनित्यत्वे<tei:anchor corresp="#vegest-1870" xml:id="vegest-1871" /> प्रतिज्ञाय<tei:lb ed="gb" xml:lang="sa-Latn" />
+पुनर् उपदेशान्तरेण<tei:anchor corresp="#vegest-1873" xml:id="vegest-1874" /> ते<tei:anchor corresp="#vegest-1876" xml:id="vegest-1877" /> एव प्रतिवहतीति<tei:anchor corresp="#vegest-1879" xml:id="vegest-1880" /> कथं नोन्म<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />त्तः<tei:anchor corresp="#vegest-1882" xml:id="vegest-1883" /> | तस्माद् भेदाभेदाभ्याम् अवाच्यं<tei:anchor corresp="#vegest-1885" xml:id="vegest-1886" /> सामान्यम् इति सिद्धम् |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">नन्व्<tei:anchor corresp="#vegest-1888" xml:id="vegest-1889" /> अयम्<tei:anchor corresp="#vegest-1891" xml:id="vegest-1892" /> अनैकान्तिको हेतुः | यद्य् अपि हि सामान्यं<tei:lb ed="gb" xml:lang="sa-Latn" />
+भेदाभेदाभ्यां<tei:anchor corresp="#vegest-1894" xml:id="vegest-1895" /> केवलाभ्याम् अवाच्यं<tei:anchor corresp="#vegest-1897" xml:id="vegest-1898" /> तथापि नावस्तु<tei:anchor corresp="#vegest-1900" xml:id="vegest-1901" /> प्र<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />कारान्तरस्याप्य् उभयात्मतालक्षणस्य<tei:anchor corresp="#vegest-1903" xml:id="vegest-1904" /> संभवात् | भिन्ना<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />भिन्नम् एव हि सामान्यं जैनजैमिनीयाः<tei:anchor corresp="#vegest-1906" xml:id="vegest-1907" /> प्रतिजानते | यद्<tei:lb ed="gb" xml:lang="sa-Latn" />
+आहुः | <tei:pb edRef="#jāni-I" n="I.78" xml:lang="sa-Latn" /></tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:pb ed="gb" n="36" xml:lang="sa-Latn" />
+<tei:lg xml:lang="sa-Latn"><tei:l xml:lang="sa-Latn"><tei:anchor corresp="#vegest-1909" xml:id="vegest-1910" />घटमौलिसुवर्णार्थी<tei:anchor corresp="#vegest-1912" xml:id="vegest-1913" /> नाशोत्पादस्थितिष्व् अयम् |</tei:l><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:l xml:lang="sa-Latn"><tei:pb edRef="#jāni-T" n="T.58" xml:lang="sa-Latn" /> शोकप्रमोदमाध्यस्थ्यं<tei:anchor corresp="#vegest-1915" xml:id="vegest-1916" /> जनो याति सहेतुकम् |<tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied></tei:l></tei:lg><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:lg xml:lang="sa-Latn"><tei:l xml:lang="sa-Latn"><tei:anchor corresp="#vegest-1918" xml:id="vegest-1919" />न सामान्यात्मनोदेति न व्येति व्यक्तम् अन्वयात् |</tei:l><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:l xml:lang="sa-Latn">व्येत्य् उदेति विशेषेण सहैकत्रोदयादिम<tei:pb edRef="#jāni-ms" n="IIA.8" xml:lang="sa-Latn" />त्<tei:anchor corresp="#vegest-1921" xml:id="vegest-1922" /> |<tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied></tei:l></tei:lg><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:lg xml:lang="sa-Latn"><tei:l xml:lang="sa-Latn"><tei:anchor corresp="#vegest-1924" xml:id="vegest-1925" />यथा कल्माषवर्णस्य यथेष्ठं<tei:anchor corresp="#vegest-1927" xml:id="vegest-1928" /> वर्णनिग्रहः<tei:anchor corresp="#vegest-1930" xml:id="vegest-1931" /> |</tei:l><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:l xml:lang="sa-Latn">चित्रत्वाद् वस्तुनो ऽप्य् एवं भेदाभेदावधारणा<tei:anchor corresp="#vegest-1933" xml:id="vegest-1934" /> ||</tei:l></tei:lg><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:lg xml:lang="sa-Latn"><tei:l xml:lang="sa-Latn"><tei:anchor corresp="#vegest-1936" xml:id="vegest-1937" />यदा तु शबलं वस्तु युगपत्<tei:anchor corresp="#vegest-1939" xml:id="vegest-1940" /> प्रतिपद्यते <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied></tei:l><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:l xml:lang="sa-Latn">तदान्यानन्यभेदादि<tei:anchor corresp="#vegest-1942" xml:id="vegest-1943" /> सर्वम् एव प्रलीयते<tei:anchor corresp="#vegest-1945" xml:id="vegest-1946" /> |<tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied></tei:l></tei:lg><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:lg xml:lang="sa-Latn"><tei:l xml:lang="sa-Latn"><tei:anchor corresp="#vegest-1948" xml:id="vegest-1949" />एकात्मकं<tei:anchor corresp="#vegest-1951" xml:id="vegest-1952" /> भवेद् एकम्<tei:anchor corresp="#vegest-1954" xml:id="vegest-1955" /> इति नेश्वरभाषितम् <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied></tei:l><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:l xml:lang="sa-Latn">तथा<tei:anchor corresp="#vegest-1957" xml:id="vegest-1958" /> हि तद् उपैतव्यं<tei:anchor corresp="#vegest-1960" xml:id="vegest-1961" /> यद् यथैवोपलभ्यते <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">||</tei:supplied></tei:l></tei:lg><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">इति</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">अत्र प्रतिविधीयते <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied> भेदाभेदयोर् अन्योन्यनिषेधरूप<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />त्वाद्<tei:anchor corresp="#vegest-1963" xml:id="vegest-1964" /> एकविधेर् अपरनिषेधनान्तरीयकत्वात् कथम्<tei:anchor corresp="#vegest-1966" xml:id="vegest-1967" /> अनयोर्<tei:lb ed="gb" xml:lang="sa-Latn" />
+एकाधिकरणत्वं मत्तोन्मत्तेतरः प्रतिपद्येत | तथा हि तन्<tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:pb edRef="#jāni-I" n="I.79" xml:lang="sa-Latn" /> नाम तस्माद्<tei:anchor corresp="#vegest-1969" xml:id="vegest-1970" /> अभिन्नं<tei:anchor corresp="#vegest-1972" xml:id="vegest-1973" /> यद् एव यत् | भिन्नं च तत् तस्माद्<tei:lb ed="gb" xml:lang="sa-Latn" />
+यद् यन् न भवति <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied> अतश् च व्यक्तिभ्यः सामान्यं भिन्नम्<tei:lb ed="gb" xml:lang="sa-Latn" />
+अभिन्नं चेति ब्रुवाणो व्यक्तयः सामान्यं<tei:anchor corresp="#vegest-1975" xml:id="vegest-1976" /> न च<tei:anchor corresp="#vegest-1978" xml:id="vegest-1979" /> व्यक्तयः<tei:anchor corresp="#vegest-1981" xml:id="vegest-1982" /><tei:lb ed="gb" xml:lang="sa-Latn" />
+सामान्यम्<tei:anchor corresp="#vegest-1984" xml:id="vegest-1985" /> इति ब्रूते <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied> कथं च<tei:anchor corresp="#vegest-1987" xml:id="vegest-1988" /> स्वस्थचेतनश्<tei:anchor corresp="#vegest-1990" xml:id="vegest-1991" /> चेतस्य्<tei:anchor corresp="#vegest-1993" xml:id="vegest-1994" /><tei:lb ed="gb" xml:lang="sa-Latn" />
+अपि तद् एतद् आरोपयेत्<tei:anchor corresp="#vegest-1996" xml:id="vegest-1997" /> <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied> प्रयोगः | यद् यद् एव<tei:anchor corresp="#vegest-1999" xml:id="vegest-2000" /> न तद् अतद्<tei:lb ed="gb" xml:lang="sa-Latn" />
+भवति यथोष्णं वह्निरूपं नानुष्णम्<tei:anchor corresp="#vegest-2002" xml:id="vegest-2003" /> <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied> व्यक्तय एव<tei:anchor corresp="#vegest-2005" xml:id="vegest-2006" /><tei:lb ed="gb" xml:lang="sa-Latn" />
+सामान्यम् इति स्वभावविरुद्धोपलब्धिप्रसङ्गः<tei:anchor corresp="#vegest-2008" xml:id="vegest-2009" /> |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:pb ed="gb" n="37" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">उभयथा प्रतीतेर् उभयोपगम इति चेत् |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">ननु प्रतीतिर् अप्रतीतेर् बाधिका न तु मिथ्याप्रतीतेः |<tei:lb ed="gb" xml:lang="sa-Latn" />
+वितथस्यापि प्रतीतिदर्शनात् | अन्यथा हि प्रतीतिपथानुसा<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />रिणा<tei:anchor corresp="#vegest-2011" xml:id="vegest-2012" /> भवता द्विचन्द्रादयो <tei:anchor corresp="#vegest-2014" xml:id="vegest-2015" />ऽपि न निह्नोतव्याः |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">बाधकवशात् ते निह्नूयन्त इति चेत् |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">इहाप्य् एतद् अनुमानम् असिद्ध्यादिदोषत्रयरहितलिङ्गजं<tei:anchor corresp="#vegest-2017" xml:id="vegest-2018" /> किं<tei:lb ed="gb" xml:lang="sa-Latn" />
+न पश्यति देवानांप्रियः |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn"><tei:anchor corresp="#vegest-2020" xml:id="vegest-2021" />न संविदो युक्तिभिर् अस्ति बाधेति चेत् |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">ननु किम् इयं राज्ञाम् आज्ञा येनाविचार्य गृह्यते <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied></tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">प्रत्यक्षस्वभावा संवित् | तच् च ज्येष्ठं<tei:anchor corresp="#vegest-2023" xml:id="vegest-2024" /> प्रमाणम् अतो<tei:lb ed="gb" xml:lang="sa-Latn" />
+न बाध्यत इति चेत् |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn"><tei:anchor corresp="#vegest-2026" xml:id="vegest-2027" />किं पुनर् अनुमानं लक्षणोपेतम् अपि बाध्यते |<tei:lb ed="gb" xml:lang="sa-Latn" />
+एवम् एतद् इति चेत् |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">न तर्हि तद्<tei:anchor corresp="#vegest-2029" xml:id="vegest-2030" /> अनुमानं प्रमाणं स्यात् | लक्षणयुक्ते<tei:anchor corresp="#vegest-2032" xml:id="vegest-2033" /> बा<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />धासंभवे<tei:anchor corresp="#vegest-2035" xml:id="vegest-2036" /> तल् लक्षणम् एव दूषितं स्याद् इति सर्वत्रानाश्वा<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />सः<tei:anchor corresp="#vegest-2038" xml:id="vegest-2039" /> |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">अथानुमानाभासो<tei:anchor corresp="#vegest-2041" xml:id="vegest-2042" /> बाध्यते <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied></tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn"><tei:anchor corresp="#vegest-2044" xml:id="vegest-2045" />प्रत्यक्षाभासो ऽपि किं न बाध्यते |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">बाध्यताम् अध्यक्षाभासः | प्रत्यक्षैव<tei:anchor corresp="#vegest-2047" xml:id="vegest-2048" /> पुनर् इयं सं<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />वित्तिस् तत् कथम् इति<tei:anchor corresp="#vegest-2050" xml:id="vegest-2051" /> बाध्यत इति चेत् |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">नन्व् इयम् अपि प्रत्यक्षाभास<tei:anchor corresp="#vegest-2053" xml:id="vegest-2054" /> <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">ए</tei:supplied>वानुमानेन<tei:anchor corresp="#vegest-2056" xml:id="vegest-2057" /> बाध्यमान<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />त्वात् |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:pb ed="gb" n="38" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn">अथ प्रत्यक्षम् एव प्रत्यक्षस्य तदाभासतां बाध्यत्वात्<tei:anchor corresp="#vegest-2059" xml:id="vegest-2060" /><tei:lb ed="gb" xml:lang="sa-Latn" />
+साधयति न त्व् अनुमानम् इत्य् अभिनिवेशः |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:p xml:lang="sa-Latn"><tei:pb edRef="#jāni-I" n="I.80" xml:lang="sa-Latn" /> कथं तर्हि ज्वालादिविषयायाः प्रत्यभिज्ञायाः<tei:anchor corresp="#vegest-2062" xml:id="vegest-2063" /> प्रत्यक्षा<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />याः<tei:anchor corresp="#vegest-2065" xml:id="vegest-2066" /> प्रत्यक्षाभासता व्यवस्थाप्यते<tei:anchor corresp="#vegest-2068" xml:id="vegest-2069" /> | न खलु ज्वालादीनां<tei:anchor corresp="#vegest-2071" xml:id="vegest-2072" /><tei:lb ed="gb" xml:lang="sa-Latn" />
+क्षणिकत्वम्<tei:anchor corresp="#vegest-2074" xml:id="vegest-2075" /> अध्यक्षम् अवधारयेत् | तस्माद् अनुमानम् एव ज्वा<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />लादीनां क्षणिकतां<tei:anchor corresp="#vegest-2077" xml:id="vegest-2078" /> साधयत्<tei:anchor corresp="#vegest-2080" xml:id="vegest-2081" /> <tei:surplus resp="#jāni-bue" xml:lang="sa-Latn">|</tei:surplus> बाधकम् एतस्या<tei:anchor corresp="#vegest-2083" xml:id="vegest-2084" /> इत्यकामेना<tei:lb break="no" ed="gb" xml:lang="sa-Latn" />पि<tei:anchor corresp="#vegest-2086" xml:id="vegest-2087" /> कुमारिलेनाभ्युपेतव्यम् | न<tei:anchor corresp="#vegest-2089" xml:id="vegest-2090" /> शक्यं वक्तुं सामान्यम् एव<tei:lb ed="gb" xml:lang="sa-Latn" />
+केवलं तया विषयीक्रियत इति <tei:supplied resp="#jāni-bue" xml:lang="sa-Latn">|</tei:supplied> तथाभावे<tei:anchor corresp="#vegest-2092" xml:id="vegest-2093" /> हि तद् एवेदं<tei:lb ed="gb" xml:lang="sa-Latn" />
+ज्वालात्वम्<tei:anchor corresp="#vegest-2095" xml:id="vegest-2096" /> इति स्यात् न सैवं ज्वालेति |<tei:lb ed="gb" xml:lang="sa-Latn" />
+तस्मान् नानैकान्तिको हेतुर् इत्य् अलं बहुभाषितयेति<tei:anchor corresp="#vegest-2098" xml:id="vegest-2099" /> |</tei:p><tei:lb ed="gb" xml:lang="sa-Latn" />
+<tei:trailer xml:lang="sa-Latn">जातिनिराकृतिर् इयं जितारिपादानाम्<tei:anchor corresp="#vegest-2101" xml:id="vegest-2102" /> ||</tei:trailer>
+</tei:div>
+</tei:body>
+</tei:text>
+<tei:standOff ana="#vegest-added">
+  <tei:listAnnotations>
+    <tei:note corresp="#vegest-2102" xml:id="vegest-2101" n="38-14" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">जितारिपादानां कृतिर् जातिनिराकृतिस् समाप्ता</tei:q> || <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2099" xml:id="vegest-2098" n="38-13" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">बहुप्रलापतया</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2096" xml:id="vegest-2095" n="38-12" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">बुद्धिज्वा°</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2093" xml:id="vegest-2092" n="38-11" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">तथा</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2090" xml:id="vegest-2089" n="38-10" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">न च</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2087" xml:id="vegest-2086" n="38-9" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°नापि तु</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2084" xml:id="vegest-2083" n="38-8" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">एव तस्या</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2081" xml:id="vegest-2080" n="38-7" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°येत्</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2078" xml:id="vegest-2077" n="38-6" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°त्वं</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">क्षणेकत्वं</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2075" xml:id="vegest-2074" n="38-5" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अक्ष°</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2072" xml:id="vegest-2071" n="38-4" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°नाम् अपि</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2069" xml:id="vegest-2068" n="38-3" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°येत</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2066" xml:id="vegest-2065" n="38-2" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°आया व्यक्त्यपेक्षया</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2063" xml:id="vegest-2062" n="38-2" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°आया व्यक्त्यपेक्षया</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2060" xml:id="vegest-2059" n="38-1" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">बाधकत्वात्</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2057" xml:id="vegest-2056" n="37-15" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">प्रत्यक्षाभासैव अनुमानेन</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2054" xml:id="vegest-2053" n="37-15" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">प्रत्यक्षाभासैव अनुमानेन</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2051" xml:id="vegest-2050" n="37-14" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">न</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2048" xml:id="vegest-2047" n="37-13" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">प्रत्यक्षेणैव</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2045" xml:id="vegest-2044" n="37-12" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">प्रत्यक्ष°</tei:q> bis <tei:q type="variant" xml:lang="sa-Latn">बाध्यते</tei:q> fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2042" xml:id="vegest-2041" n="37-11" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">यथानु°</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2039" xml:id="vegest-2038" n="37-10" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°त्रानुमाने ऽनाश्वासः</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2036" xml:id="vegest-2035" n="37-9" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">बाधसं°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2033" xml:id="vegest-2032" n="37-8" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°युक्ते ऽपि</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2030" xml:id="vegest-2029" n="37-7" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">इदम्</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2027" xml:id="vegest-2026" n="37-6" xml:lang="de">
+      <tei:p xml:lang="de"><tei:ref target="#jāni-T" xml:lang="de">T</tei:ref> läßt aus von <tei:q type="variant" xml:lang="sa-Latn">किं</tei:q> bis <tei:q type="variant" xml:lang="sa-Latn">चेत्।</tei:q></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2024" xml:id="vegest-2023" n="37-5" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">ज्येष्ट</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2021" xml:id="vegest-2020" n="37-4" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">न।।।बाधा:</tei:q> Upendravajrā - Viertel. Wahrscheinlich ein Zitat.</tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2018" xml:id="vegest-2017" n="37-3" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अपि बाध्यादिदोषत्रयरहितलिङ्गजं बाधकं</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2015" xml:id="vegest-2014" n="37-2" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">ऽपि</tei:q> bis <tei:q type="variant" xml:lang="sa-Latn">बाधक</tei:q> fehlt <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref> <tei:foreign xml:lang="la">lacuna</tei:foreign></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2012" xml:id="vegest-2011" n="37-1" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°यथानु°</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2009" xml:id="vegest-2008" n="36-33" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°धिः प्र°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2006" xml:id="vegest-2005" n="36-32" xml:lang="de">
+      <tei:p xml:lang="de">Hier bricht das <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref> ab.</tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2003" xml:id="vegest-2002" n="36-31" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">नामो°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-2000" xml:id="vegest-1999" n="36-30" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">एवं</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1997" xml:id="vegest-1996" n="36-29" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°यति</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1994" xml:id="vegest-1993" n="36-28" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°चेतस्या</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1991" xml:id="vegest-1990" n="36-27" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°चेताश्</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1988" xml:id="vegest-1987" n="36-26" xml:lang="de">
+      <tei:p xml:lang="de">fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1985" xml:id="vegest-1984" n="36-25" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">स°</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1982" xml:id="vegest-1981" n="36-24" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">व्यक्तिभ्यः</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1979" xml:id="vegest-1978" n="36-23" xml:lang="de">
+      <tei:p xml:lang="de">fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1976" xml:id="vegest-1975" n="36-22" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">स°</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1973" xml:id="vegest-1972" n="36-21" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">तस्माभिन्नं</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1970" xml:id="vegest-1969" n="36-21" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">तस्माभिन्नं</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1967" xml:id="vegest-1966" n="36-20" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">तत् कथं</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1964" xml:id="vegest-1963" n="36-19" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">प्रतिषेध°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1961" xml:id="vegest-1960" n="36-18" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">उपे°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:ref cRef="śv" xml:lang="de">ŚV</tei:ref>, <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1958" xml:id="vegest-1957" n="36-17" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">तत् तथैव प्रपत्तव्यं</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">हि तथा <tei:hi rend="brackets" xml:lang="sa-Latn">हि</tei:hi></tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">तथैव</tei:q> <tei:ref cRef="śv" xml:lang="de">ŚV</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1955" xml:id="vegest-1954" n="36-16" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">एतद्</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1952" xml:id="vegest-1951" n="36-15" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">एकाकारं</tei:q> <tei:ref cRef="śv" xml:lang="de">ŚV</tei:ref>.</tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1949" xml:id="vegest-1948" n="36-14" xml:lang="de">
+      <tei:p xml:lang="de">
+        <tei:ref cRef="śv-śūnya.219-220" xml:lang="de">ŚV śūnyavāda 219cd u. 220ab</tei:ref>
+      </tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1946" xml:id="vegest-1945" n="36-13" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">प्रती°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1943" xml:id="vegest-1942" n="36-12" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°भेदेन</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1940" xml:id="vegest-1939" n="36-11" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">युमयत्</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">युगवत्</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1937" xml:id="vegest-1936" n="36-10" xml:lang="de">
+      <tei:p xml:lang="de">
+        <tei:ref cRef="śv-ākṛti.62-63" xml:lang="de">ŚV ākṛtivāda 62cd u. 63ab</tei:ref>
+      </tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1934" xml:id="vegest-1933" n="36-9" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°दावरणा</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1931" xml:id="vegest-1930" n="36-8" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°विग्रहः</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1928" xml:id="vegest-1927" n="36-7" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">यथेष्ट</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1925" xml:id="vegest-1924" n="36-6" xml:lang="de">
+      <tei:p xml:lang="de">
+        <tei:ref cRef="śv-ākṛti.57-58" xml:lang="de">ŚV ākṛtivāda 57cd u. 58ab</tei:ref>
+      </tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1922" xml:id="vegest-1921" n="36-5" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°सत्</tei:q> <tei:ref cRef="āmī" xml:lang="de">ĀM</tei:ref>, <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1919" xml:id="vegest-1918" n="36-4" xml:lang="de">
+      <tei:p xml:lang="de">
+        <tei:ref cRef="āmī.3.57" xml:lang="de">ĀM III 57</tei:ref>
+      </tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1916" xml:id="vegest-1915" n="36-3" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">शोकप्रमोह°</tei:q> ĀM</tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1913" xml:id="vegest-1912" n="36-2" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°सुवर्णानां</tei:q> I</tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1910" xml:id="vegest-1909" n="36-1" xml:lang="de">
+      <tei:p xml:lang="de">
+        <tei:ref cRef="āmī.3.59" xml:lang="de">ĀM III 59</tei:ref>
+      </tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1907" xml:id="vegest-1906" n="35-28" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">चैवम् इति जैनाः</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">जैनि°</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1904" xml:id="vegest-1903" n="35-27" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°यात्मना ल°</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1901" xml:id="vegest-1900" n="35-26" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अवस्तु</tei:q> fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">न तथापि अवस्तु</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1898" xml:id="vegest-1897" n="35-25" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">वाच्यं</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1895" xml:id="vegest-1894" n="35-24" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">भेदाभेदा व्यक्तय एव आभ्याम्</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1892" xml:id="vegest-1891" n="35-23" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">न चायम्</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1889" xml:id="vegest-1888" n="35-23" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">न चायम्</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1886" xml:id="vegest-1885" n="35-22" xml:lang="de">
+      <tei:p xml:lang="de">fehlt <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1883" xml:id="vegest-1882" n="35-21" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°मतः</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref>, <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1880" xml:id="vegest-1879" n="35-20" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">प्रतिभातीति</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1877" xml:id="vegest-1876" n="35-19" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">तत</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1874" xml:id="vegest-1873" n="35-18" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अयं देशान्तरत एव</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1871" xml:id="vegest-1870" n="35-17" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अभिन्नत्वनि°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1868" xml:id="vegest-1867" n="35-16" xml:lang="de">
+      <tei:p xml:lang="de">fehlt <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1865" xml:id="vegest-1864" n="35-15" xml:lang="de">
+      <tei:p xml:lang="de"><tei:ref target="#jāni-T" xml:lang="de">T</tei:ref> beginnt nach der Lücke mit <tei:q type="variant" xml:lang="sa-Latn">नेकं</tei:q></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1862" xml:id="vegest-1861" n="35-14" xml:lang="de">
+      <tei:p xml:lang="de">fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1859" xml:id="vegest-1858" n="35-13" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">चेत्</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1856" xml:id="vegest-1855" n="35-12" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">चानैकान्तिकः</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">सानेकान्तः</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1853" xml:id="vegest-1852" n="35-11" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°लब्धिः प्र°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1850" xml:id="vegest-1849" n="35-10" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">सामान्यस्यात्मा | सामान्यद्</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1847" xml:id="vegest-1846" n="35-10" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">सामान्यस्यात्मा | सामान्यद्</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1844" xml:id="vegest-1843" n="35-9" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°नम्</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1841" xml:id="vegest-1840" n="35-8" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">भेदभङ्गात्</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1838" xml:id="vegest-1837" n="35-7" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अन्यस्य एका°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1835" xml:id="vegest-1834" n="35-6" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°हेतुः प्र°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1832" xml:id="vegest-1831" n="35-5" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">त्व् अभि°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1829" xml:id="vegest-1828" n="35-4" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">प्रति°</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1826" xml:id="vegest-1825" n="35-3" xml:lang="de">
+      <tei:p xml:lang="de">fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1823" xml:id="vegest-1822" n="35-2" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">असत्त्वं</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1820" xml:id="vegest-1819" n="35-1" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">आद्यपक्षे</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1817" xml:id="vegest-1816" n="35-1" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">आद्यपक्षे</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1814" xml:id="vegest-1813" n="34-28" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°भिद</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1811" xml:id="vegest-1810" n="34-27" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">प</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1808" xml:id="vegest-1807" n="34-26" xml:lang="de">
+      <tei:p xml:lang="de">fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1805" xml:id="vegest-1804" n="34-25" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">क्ष°</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1802" xml:id="vegest-1801" n="34-24" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">यद् वा</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1799" xml:id="vegest-1798" n="34-23" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">सामान°</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1796" xml:id="vegest-1795" n="34-22" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">ए</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1793" xml:id="vegest-1792" n="34-21" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°सहायकः</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1790" xml:id="vegest-1789" n="34-20" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">व्यक्तिव्यतिरिक्तसामान्यनिराकरणात्</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1787" xml:id="vegest-1786" n="34-19" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अस्तीति</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1784" xml:id="vegest-1783" n="34-19" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अस्तीति</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1781" xml:id="vegest-1780" n="34-18" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°यत्</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1778" xml:id="vegest-1777" n="34-17" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°यति</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1775" xml:id="vegest-1774" n="34-16" xml:lang="de">
+      <tei:p xml:lang="de">fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1772" xml:id="vegest-1771" n="34-15" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अगो</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1769" xml:id="vegest-1768" n="34-14" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">तस्यागोर् इति वाश्वादेर् इति वा गोत्वेन</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1766" xml:id="vegest-1765" n="34-13" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">तत्र</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1763" xml:id="vegest-1762" n="34-12" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°रूप</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1760" xml:id="vegest-1759" n="34-11" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">तद् एव</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1757" xml:id="vegest-1756" n="34-10" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">इता</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1754" xml:id="vegest-1753" n="34-9" xml:lang="de">
+      <tei:p xml:lang="de">fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1751" xml:id="vegest-1750" n="34-8" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">न च गो°।।।वस्त्व् अस्ति</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1748" xml:id="vegest-1747" n="34-7" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">यो न</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1745" xml:id="vegest-1744" n="34-6" xml:lang="de">
+      <tei:p xml:lang="de">fehlt <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1742" xml:id="vegest-1741" n="34-5" xml:lang="de">
+      <tei:p xml:lang="de">cf.<tei:ref cRef="nv.2.2.65" xml:lang="de">NV II.2.65 <tei:hi rend="brackets" xml:lang="de">p.318. 17-25</tei:hi></tei:ref>: <tei:q type="variant" xml:lang="sa-Latn"><tei:hi rend="brackets" xml:lang="sa-Latn">यद् इदं गोत्वं गोष्व् अनुवृत्तिप्रत्ययकारणं तत् किं गवि वर्त्तते आहोस्विद् अगवि</tei:hi> यदि तावद् गवि प्राक् गोत्वयोगाद् गौर् एवासाव् इति व्यर्थं गोत्वम् |।।।<tei:hi rend="brackets" xml:lang="sa-Latn">न च प्राक् गोत्वयोगाद् वस्तु विद्यते</tei:hi> न चाविद्यमानं गौर् इत्य् अगौर् इति च शक्यं व्यपदेष्टुं यदैव वस्तु तदैव गोत्वेनाभिसंबध्यते।।।</tei:q></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1739" xml:id="vegest-1738" n="34-4" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">उद्यो°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1736" xml:id="vegest-1735" n="34-3" xml:lang="de">
+      <tei:p xml:lang="de"><tei:ref target="#jāni-T" xml:lang="de">T</tei:ref> fehlt ein größerer Abschnitt.</tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1733" xml:id="vegest-1732" n="34-2" xml:lang="de">
+      <tei:p xml:lang="de">cf. 33.16</tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1730" xml:id="vegest-1729" n="34-1" xml:lang="de">
+      <tei:p xml:lang="de">cf. 33.12f.</tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1727" xml:id="vegest-1726" n="33-30" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°येषु</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1724" xml:id="vegest-1723" n="33-29" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°प्रतीतिनिमित्तस्य</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1721" xml:id="vegest-1720" n="33-29" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°प्रतीतिनिमित्तस्य</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1718" xml:id="vegest-1717" n="33-28" xml:lang="de">
+      <tei:p xml:lang="de">cf. 33.8 f.</tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1715" xml:id="vegest-1714" n="33-27" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">समानप्रत्ययत्वाद्</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1712" xml:id="vegest-1711" n="33-26" xml:lang="de">
+      <tei:p xml:lang="de">cf. 33.7 f.</tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1709" xml:id="vegest-1708" n="33-25" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">आरभ्य°</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref>, <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1706" xml:id="vegest-1705" n="33-24" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">सामान्यत्वात् निमित्तस्य</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1703" xml:id="vegest-1702" n="33-23" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">हेक°</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1700" xml:id="vegest-1699" n="33-23" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">हेक°</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1697" xml:id="vegest-1696" n="33-22" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°श्रयित्वम्</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">इतिरेतराश्रयत्वम्</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1694" xml:id="vegest-1693" n="33-21" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">स्थरम्</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">स्फुटम्</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1691" xml:id="vegest-1690" n="33-20" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">असामान्यस्व°</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">असमानस्व°</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1688" xml:id="vegest-1687" n="33-19" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अनुमानहेतव</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1685" xml:id="vegest-1684" n="33-18" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°त्वा</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1682" xml:id="vegest-1681" n="33-17" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°येत्</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1679" xml:id="vegest-1678" n="33-16" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°ष्मभिर्</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1676" xml:id="vegest-1675" n="33-15" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">वायव्°</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref>, <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1673" xml:id="vegest-1672" n="33-14" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अथ ते च अवय°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1670" xml:id="vegest-1669" n="33-13" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">समानप्रत्ययहेतुतया</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">समप्रत्ययहेतुतया</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1667" xml:id="vegest-1666" n="33-12" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">विधान</tei:q> fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1664" xml:id="vegest-1663" n="33-11" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">गम्येरन्</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1661" xml:id="vegest-1660" n="33-10" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">नास्त</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1658" xml:id="vegest-1657" n="33-10" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">नास्त</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1655" xml:id="vegest-1654" n="33-9" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°वयिद्वित्वे</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1652" xml:id="vegest-1651" n="33-8" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">वार्तम् एतत् | न खल्व् अव°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">वार्तम् एतत् | न ह्य् अव°</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1649" xml:id="vegest-1648" n="33-7" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°ङ्गम्</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1646" xml:id="vegest-1645" n="33-6" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°समवायिनार्थेन</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">एकेन नेक°</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">°समवायेना°</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1643" xml:id="vegest-1642" n="33-5" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°यतां बन्धना°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1640" xml:id="vegest-1639" n="33-4" xml:lang="de">
+      <tei:p xml:lang="de"><tei:ref target="#jāni-T" xml:lang="de">T</tei:ref> fügt ein: <tei:q type="variant" xml:lang="sa-Latn">अप्य्</tei:q></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1637" xml:id="vegest-1636" n="33-3" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">कथं</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1634" xml:id="vegest-1633" n="33-2" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">तद्वद् अन्ये</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1631" xml:id="vegest-1630" n="33-1" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°पक्ष°</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref>; cf. 32. 4</tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1628" xml:id="vegest-1627" n="32-28" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°वेत्</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref>; <tei:q type="variant" xml:lang="sa-Latn">°वते</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1625" xml:id="vegest-1624" n="32-27" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">असमानं रू°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1622" xml:id="vegest-1621" n="32-26" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">चा</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1619" xml:id="vegest-1618" n="32-25" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">आसज्येत्</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref>; <tei:q type="variant" xml:lang="sa-Latn">आसज्यते</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1616" xml:id="vegest-1615" n="32-24" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°कर्मसामान्य°</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1613" xml:id="vegest-1612" n="32-23" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°सामान्य°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1610" xml:id="vegest-1609" n="32-22" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°योगि</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1607" xml:id="vegest-1606" n="32-21" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">तद् अपि</tei:q> fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1604" xml:id="vegest-1603" n="32-20" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">नेत्य् असामान्यजन्मम्</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1601" xml:id="vegest-1600" n="32-19" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अशक्ता</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1598" xml:id="vegest-1597" n="32-18" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">व्यक्तिवद् भावस्वभावता</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1595" xml:id="vegest-1594" n="32-17" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">च भावि°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>; <tei:q type="variant" xml:lang="sa-Latn">विभाव°</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1592" xml:id="vegest-1591" n="32-17" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">च भावि°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>; <tei:q type="variant" xml:lang="sa-Latn">विभाव°</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1589" xml:id="vegest-1588" n="32-16" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">क्रियन्त</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1586" xml:id="vegest-1585" n="32-15" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अत्र</tei:q> fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1583" xml:id="vegest-1582" n="32-14" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">तेन क्रि°</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1580" xml:id="vegest-1579" n="32-13" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°णा</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref> <tei:hi rend="brackets" xml:lang="de">?</tei:hi></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1577" xml:id="vegest-1576" n="32-12" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">किम् तु समानेन पुना</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>; <tei:q type="variant" xml:lang="sa-Latn">°नेन पुना</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1574" xml:id="vegest-1573" n="32-11" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°न्नाः</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1571" xml:id="vegest-1570" n="32-10" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">धर्म°</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1568" xml:id="vegest-1567" n="32-9" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">कृतेः</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1565" xml:id="vegest-1564" n="32-8" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">व्यव°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1562" xml:id="vegest-1561" n="32-7" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">किं नु वै</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">अथाहो°</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1559" xml:id="vegest-1558" n="32-6" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">न; तथा हि किं।।।</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1556" xml:id="vegest-1555" n="32-5" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°प्रतिज्ञो</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1553" xml:id="vegest-1552" n="32-4" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°नः कथं</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1550" xml:id="vegest-1549" n="32-3" xml:lang="de">
+      <tei:p xml:lang="de">fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1547" xml:id="vegest-1546" n="32-2" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">असमानां</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1544" xml:id="vegest-1543" n="32-1" xml:lang="de">
+      <tei:p xml:lang="de">cf. 31. 24f.</tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1541" xml:id="vegest-1540" n="31-31" xml:lang="de">
+      <tei:p xml:lang="de">fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1538" xml:id="vegest-1537" n="31-30" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अप्रयुक्तेः</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">अप्रवृत्तेः</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1535" xml:id="vegest-1534" n="31-29" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">सामान्येन</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1532" xml:id="vegest-1531" n="31-28" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°धानं</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">°धान</tei:q><tei:hi rend="brackets" xml:lang="de">
+        <tei:foreign xml:lang="la">lacuna</tei:foreign>
+      </tei:hi><tei:q type="variant" xml:lang="sa-Latn">म् एव</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1529" xml:id="vegest-1528" n="31-27" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">समान</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1526" xml:id="vegest-1525" n="31-26" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">ते यदि</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1523" xml:id="vegest-1522" n="31-26" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">ते यदि</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1520" xml:id="vegest-1519" n="31-25" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°प्रमाणम्</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1517" xml:id="vegest-1516" n="31-24" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">स्वहे</tei:q> fehlt <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1514" xml:id="vegest-1513" n="31-23" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">ते भेदाः</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1511" xml:id="vegest-1510" n="31-22" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">विकल्पद्वयम्</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1508" xml:id="vegest-1507" n="31-21" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">तेजाक्रिया°</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1505" xml:id="vegest-1504" n="31-20" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">समानज्ञानाभिधानप्र°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1502" xml:id="vegest-1501" n="31-19" xml:lang="de">
+      <tei:p xml:lang="de">
+        <tei:ref cRef="nsū.2.2.68" xml:lang="de">NS II.2. 68</tei:ref>
+      </tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1499" xml:id="vegest-1498" n="31-18" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°पादाः</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">अक्षपादाः</tei:q> fehlt <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1496" xml:id="vegest-1495" n="31-17" xml:lang="de">
+      <tei:p xml:lang="de">fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1493" xml:id="vegest-1492" n="31-16" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अस्मद्</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1490" xml:id="vegest-1489" n="31-15" xml:lang="de">
+      <tei:p xml:lang="de">fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1487" xml:id="vegest-1486" n="31-14" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">समानां</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1484" xml:id="vegest-1483" n="31-13" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">नान्यद् इति</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1481" xml:id="vegest-1480" n="31-12" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अथैवं</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1478" xml:id="vegest-1477" n="31-11" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°आदिमतां</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1475" xml:id="vegest-1474" n="31-10" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°संयोगादीनाम् अवयविकार्य°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1472" xml:id="vegest-1471" n="31-9" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">चानेकार्थ°</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1469" xml:id="vegest-1468" n="31-8" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°ंङ्करेण</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1466" xml:id="vegest-1465" n="31-7" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अभिमत</tei:q> fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1463" xml:id="vegest-1462" n="31-6" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°सरति</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1460" xml:id="vegest-1459" n="31-5" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°यद् इति चेत्</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1457" xml:id="vegest-1456" n="31-4" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">त</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1454" xml:id="vegest-1453" n="31-3" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">सततं</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1451" xml:id="vegest-1450" n="31-2" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अनेकत्व</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1448" xml:id="vegest-1447" n="31-1" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">एकंम्</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1445" xml:id="vegest-1444" n="30-22" xml:lang="de">
+      <tei:p xml:lang="de"><tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref> läßt aus <tei:q type="variant" xml:lang="sa-Latn">सर्वं सर्वस्य सामान्यं</tei:q></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1442" xml:id="vegest-1441" n="30-21" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°ध</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref>; <tei:q type="variant" xml:lang="sa-Latn">°धम् इह</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1439" xml:id="vegest-1438" n="30-20" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">मन</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1436" xml:id="vegest-1435" n="30-19" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">नन</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1433" xml:id="vegest-1432" n="30-18" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°पलम्भः</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1430" xml:id="vegest-1429" n="30-17" xml:lang="de">
+      <tei:p xml:lang="de">fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1427" xml:id="vegest-1426" n="30-16" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">न</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1424" xml:id="vegest-1423" n="30-15" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">सामान्यम् अभि°</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1421" xml:id="vegest-1420" n="30-14" xml:lang="de">
+      <tei:p xml:lang="de"><tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref> läßt aus von <tei:q type="variant" xml:lang="sa-Latn">अर्था°</tei:q> bis <tei:q type="variant" xml:lang="sa-Latn">गोर् अश्वः</tei:q></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1418" xml:id="vegest-1417" n="30-13" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°भावत°</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref>, <tei:q type="variant" xml:lang="sa-Latn">°मान्यात्मतास्वभावप्र°</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1415" xml:id="vegest-1414" n="30-12" xml:lang="de">
+      <tei:p xml:lang="de">
+        <tei:q type="variant" xml:lang="sa-Latn">fएह्ल्त् <tei:ref target="#jāni-I" xml:lang="sa-Latn">इ</tei:ref></tei:q>
+      </tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1412" xml:id="vegest-1411" n="30-11" xml:lang="de">
+      <tei:p xml:lang="de">fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1409" xml:id="vegest-1408" n="30-10" xml:lang="de">
+      <tei:p xml:lang="de">fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1406" xml:id="vegest-1405" n="30-9" xml:lang="de">
+      <tei:p xml:lang="de">fehlt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref>, <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1403" xml:id="vegest-1402" n="30-8" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">च इह</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1400" xml:id="vegest-1399" n="30-7" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°स्थानान कानान कानि</tei:q> <tei:ref target="#jāni-ms" xml:lang="de">MS</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1397" xml:id="vegest-1396" n="30-6" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">श्रुतिस्मृति</tei:q> <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1394" xml:id="vegest-1393" n="30-5" xml:lang="de">
+      <tei:p xml:lang="de">Hier beginnt <tei:ref target="#jāni-I" xml:lang="de">I</tei:ref> mit <tei:q type="variant" xml:lang="sa-Latn">बुद्धानाम् अनु°</tei:q></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1391" xml:id="vegest-1390" n="30-4" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">मञ्जुनाथः</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1388" xml:id="vegest-1387" n="30-3" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">अभिसि°</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1385" xml:id="vegest-1384" n="30-2" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">°कुम्भाद्</tei:q> Konjektur <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1382" xml:id="vegest-1381" n="30-1" xml:lang="de">
+      <tei:p xml:lang="de"><tei:q type="variant" xml:lang="sa-Latn">मञ्जुश्रिये</tei:q> <tei:ref target="#jāni-T" xml:lang="de">T</tei:ref></tei:p>
+    </tei:note>
+    <tei:note corresp="#vegest-1379" xml:id="vegest-1378" xml:lang="sa-Latn"><tei:quote xml:lang="de"><tei:p xml:lang="de">Dieser Text gehört wie wahrscheinlich auch der folgende zur Sammlung der vādasthānas Jitāris. Er ist bereits von TUCCI <tei:ref xml:lang="de">1930</tei:ref> und von IYENGAR <tei:ref xml:lang="de">1952</tei:ref> ediert worden. TUCCIs Text weist mehrere Lücken auf und gibt viele von IYENGARs Manuskript abweichende Lesarten. IYENGAR hat in seiner Edition TUCCIs Edition benutzt, hat jedoch die abweichenden Lesarten nicht verzeichnet.</tei:p> <tei:p xml:lang="de">Das vorliegende Manuskript kommt in seinen Lesarten TUCCIs Manuskript sehr nahe, weist aber nicht die dort vorhandene Lücke (57.27; vgl. IYENGAR 76.4-77.15) auf. Dafür bricht der Text 58.14 (TUCCI) bzw. 79.5 (IYENGAR) ab. Möglicherweise befindet sich der Schluß des Textes auch unter den unlesbaren Teilen des Manuskripts. Der erhaltene Text umfaßt die Folios IB|2|9; IA|2|9; IIB|4; IIA|4; IIB|5; IIA|5; IIB|7; IIA|7; IIB|8; IIA|8. [...]</tei:p><tei:p xml:lang="de">Für die folgende Edition wurden die Lesarten des vorliegenden Manuskripts zur Grundlage genommen, die sich in vielen Fällen mit TUCCIs Text decken. Dem letzten Teil, der im Manuskript nicht mehr erhalten ist, wurde TUCCIs Text zugrundegelegt. Das gleiche Prinzip gilt beim Gebrauch der Daṇḍas. IYENGARs Text ist an vielen Stellen ausführlicher und bringt einfachere Lesarten.</tei:p></tei:quote> <tei:ref target="#jāni-buehnemann-1982" xml:lang="sa-Latn">ब्üह्नेमन्न् १९८२</tei:ref>, प्प्। १७-१८।</tei:note>
+  </tei:listAnnotations>
+  <tei:listApp />
+  <tei:listBibl />
+</tei:standOff></tei:TEI>

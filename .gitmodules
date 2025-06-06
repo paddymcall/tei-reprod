@@ -1,0 +1,6 @@
+[submodule "sanskrit-tei-repos/gretil-corpus-tei"]
+	path = sanskrit-tei-repos/gretil-corpus-tei
+	url = https://github.com/mmehner/gretil-corpus-tei.git
+[submodule "sanskrit-tei-repos/SARIT-corpus"]
+	path = sanskrit-tei-repos/SARIT-corpus
+	url = https://github.com/sarit/SARIT-corpus.git
