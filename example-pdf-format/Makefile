@@ -16,7 +16,6 @@ results.tex:
 	--homename="TEI Reprod Tests (GitHub repo)" \
 	--bib=./bib.bib \
 	--standalone \
-	-t tei-sameAs-inline-apps \
 	-t ana-rm-private \
 	-t xml-normalize-spaces \
 	-t tei-fix-spaces \
