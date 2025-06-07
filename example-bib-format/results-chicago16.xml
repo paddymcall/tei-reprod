@@ -1,4 +1,4 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="śisūvi-test-crit">
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="bib-test">
   <tei:teiHeader>
     <tei:fileDesc>
       <tei:titleStmt>
@@ -25,7 +25,7 @@
   <tei:text>
     <tei:body>
       
-      <tei:p>See the explanations in <tei:bibl ana="#csl-rendered-bib">(Chue Hong et al. 2022, 12)</tei:bibl>.</tei:p>
+      <tei:p>See the explanations in <tei:bibl ana="#csl-rendered-bib">(Chue Hong et al. 2022)</tei:bibl>.</tei:p>
       <tei:p><tei:bibl ana="#csl-rendered-bib">(Creamer et al. 2021, 8)</tei:bibl> states ... .</tei:p>
       <tei:p><tei:bibl ana="#csl-rendered-bib">(Prajñākaragupta 1998, 12a3--6)</tei:bibl>...</tei:p>
     </tei:body>
