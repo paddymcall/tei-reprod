@@ -1,0 +1,38 @@
+1
+
+S 215, 18kathaṃ
+
+tarhi paraE 211a3mārthasya viṣayīkaraṇād bhedaḥ.
+svarūpasākṣātkaraṇe hi pratyakṣataiva bhavetS 215, 19. tadasaṃsparśe
+kathaṃ tadviṣayatā? atrocyate—
+S 215, 20ayathābhiniveśena dvitīyā bhrāntir iṣyate.
+
+5 S 215, 21yathāsāv
+
+artha idānīm iha kāraṇaE 211a4bhedato bhiB 106b5nnaḥ,
+tathāsāv abhiniveśo na bhavatīty ayathāS 215, 22bhiniveśinī bhrāntir eva,
+pūrvadṛṣṭārthajanitavāsanāprabodhabalād bhāvitvād avastusaṃsparśe
+’pi tadadhyaS 215, 23vasāyāt.
+
+Testimonia
+1–3 kathaṃ … atrocyate] Cf. PVV (ravigupta) D phe 33a1–2, P phe 40a5–6
+7–8 pūrvadṛṣṭā° … tadadhyavasāyāt] Cf. PVV (ravigupta) D phe 33a3, P phe 40a7–8
+Critical notes
+2 bhavet. tadasaṃsparśe] bhavet0. tadasaṃsparśe B, ’gyur ro/_/de la ma reg na T, bhavet.
+tadasaṃsparśe S :: bhaveta||~~~dasaṃsparśe E
+3 tadviṣayatā] tadviṣayatā E, tadviṣayatā S, de yul du yin T :: tadviṣaya.[..6 akṣaras..]tā B
+4 dvitīyā bhrāntir] dvitīyā bhrāntir S, dvitīyā bhrāntir B, gnyis pa ’khrul pa T :: dvitīyabhrāntir
+E
+6 ayathābhiniveśinī] ayathābhiniveśinī B, E, S :: ji bzhin ma yin par mngon par (mngon
+par D] n.e. TP) zhen pas na T
+7 °balād bhāvitvād] °balād bhāvitvād B, stobs las ’byung (’byung D] byung TP) ba yin
+pas na/ T :: °balabhāvitvād E, °balabhāvitvād S
+7–8 °saṃsparśe ’pi] °saṃsparśe ’pi B, °saṃsparśe ’pi E :: °saṃspaśopi S, reg kyang T
+8 tadadhyavasāyāt.] tadadhyavasāyāt. B, tadadhyavasāyāt. S :: der (der D] des TP) lhag
+par zhen pa’i phyir ro/ T :: tadadhyavasāyataḥ. E
+
+June 7, 2025 (git-no-git-repo-found)
+
+GitHub repo
+
+

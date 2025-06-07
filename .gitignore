@@ -1,3 +1,9 @@
 *~
 auto/
 example-bib-format/*.csl
+example-pdf-format/results-export/
+example-pdf-format/results.log
+example-pdf-format/results.pdf
+example-pdf-format/results.qpdf.pdf
+example-pdf-format/results.tex
+example-pdf-format/results.tuc

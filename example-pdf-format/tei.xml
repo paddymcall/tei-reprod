@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="private__pva-crit">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+	<title>Exemplify a critical edition</title>
+      </titleStmt>
+      <editionStmt>
+	<p>TODO</p>
+      </editionStmt>
+      <publicationStmt>
+	<p>This work is licensed under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License.</p>
+      </publicationStmt>
+      <sourceDesc corresp="bib.bib">
+	<listWit>
+          <witness xml:id="pva_ms"/>
+          <witness xml:id="pva_msE"/>
+          <witness xml:id="pva_tib"/>
+        </listWit>
+        <listBibl>
+          <bibl ana="#witlike" xml:id="pva">
+	    <title>Pramāṇavārtikabhāshyam or Vārtikālaṅkāraḥ of
+            Prajñākaragupta (Being a Commentary on Dharmakīrti's
+            Pramāṇavārtikam)
+	    </title>
+	    <author>Prajñākaragupta</author>
+	    <editor xml:id="sANkRtyAyana">Rāhula Sāṅkṛtyāyana</editor>
+	    <publisher>Kashi Prasad Jayaswal Research Institute</publisher>
+	    <address><name>Patna</name></address>
+	    <date>1953</date>
+	  </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="pva-crit" xml:lang="sa-Latn">
+    <body xml:lang="sa-Latn">
+      <div>
+	<p corresp="pva_sde_dge_bstan-'gyur_toh4221_tshad-ma_te001--the282a7.xml#pva-tib__706172 pva.xml#pva__750767 pva_msE_diplomatic.xml#pva_msE__12154 pva_diplomatic.xml#pva-dipl__11887" xml:id="pva-crit__11813"><lb ed="#pva" n="215,18"/><anchor xml:id="pva-crit__36r266NWHER96Z16VYSVICVHDDB"/>kathaṃ tarhi para<lb ed="#pva_msE" n="211a3"/>mārthasya viṣayīkaraṇād bhedaḥ<pc type="daṇḍa">.</pc> svarūpasākṣātkaraṇe hi <anchor xml:id="pva-crit__13067"/>pratyakṣataiva<anchor xml:id="pva-crit__13113"/> <anchor xml:id="pva-crit__13165"/>bhavet<lb ed="#pva" n="215,19"/><pc type="daṇḍa">.</pc> tadasaṃsparśe<anchor xml:id="pva-crit__13216"/> kathaṃ <anchor xml:id="pva-crit__12362"/>tadviṣayatā<anchor xml:id="pva-crit__12404"/><pc type="daṇḍa">?</pc> atrocyate<anchor xml:id="pva-crit__36r266NWHG3GKXNHJ5HKJAONTGZ"/>—
+	<quote type="basetext">
+          <lg n="PV III 55ab" xml:id="pva__pv-3.55ab" corresp="#pv-3.55ab pva_sde_dge_bstan-'gyur_toh4221_tshad-ma_te001--the282a7.xml#pvat__pv-3.55ab pva.xml#pva__pv-3.55ab">
+	    <l><lb ed="#pva" n="215,20"/>ayathābhiniveśena <anchor xml:id="pva-crit__13454"/>dvitīyā bhrāntir<anchor xml:id="pva-crit__13501"/> iṣyate<pc type="daṇḍa">.</pc></l>
+	  </lg>
+        </quote>
+	<lb ed="#pva" n="215,21"/>yathāsāv artha idānīm iha kāraṇa<lb ed="#pva_msE" n="211a4"/>bhedato bhi<lb ed="#pva_ms"  n="106b5" xml:id="ms_106b_5"/>nnaḥ, tathāsāv abhiniveśo na bhavatīty <anchor xml:id="pva-crit__36r25X5QDTYXN5N33X3VPNOA9CE"/><quote type="basetext">ayathā<lb ed="#pva" n="215,22"/>bhiniveśi</quote>nī<anchor xml:id="pva-crit__36r25X5QDVG1YCGOO0RI3FPDSSJ"/> <quote type="basetext">bhrāntir</quote> eva<pc type="half-daṇḍa">,</pc> <anchor xml:id="pva-crit__36r25XP6T0HIVHO0Q32VAPVXCQA"/>pūrvadṛṣṭārthajanitavāsanāprabodha<anchor xml:id="pva-crit__36r1PPGG9L0WGJOSRUQ1EI80UEC"/>balād bhāvitvād<anchor xml:id="pva-crit__36r1PPGG9L1LQY994AZU2FMPE7K"/> avastu<anchor xml:id="pva-crit__36r1PPGGJLXEIMT4Y6K6UA8FQR5"/>saṃsparśe 'pi<anchor xml:id="pva-crit__36r1PPGGJLY5QVA46RDZ3P928P8"/> <anchor xml:id="pva-crit__13764"/>tadadhya<lb ed="#pva" n="215,23"/>vasāyāt<anchor xml:id="pva-crit__36r266NXCPVAHI1IT0UDX2GZ6O8"/><pc type="daṇḍa">.</pc><anchor xml:id="pva-crit__13810"/></p>
+      </div>
+    </body>
+    <back>
+      <div>
+	<listApp xml:id="critical-apparatus">
+	  <app xml:id="pva-crit__36r266NWI8JC2T63OMP2F7BIH3I" from="#pva-crit__36r266NWHER96Z16VYSVICVHDDB" to="#pva-crit__36r266NWHG3GKXNHJ5HKJAONTGZ" type="testimonia">
+	    <lem>kathaṃ … atrocyate</lem>
+	    <note resp="#pma" xml:lang="en" type="public">Cf. <bibl><ref
+	    target="#ravigupta:pvv_tibetan_general"/><citedRange>D phe 33a1–2,
+	    P phe 40a5–6</citedRange></bibl></note>
+	  </app>
+	  <app xml:id="pva-crit__36r266NXD2JT8EX2YGR68FKGOAN" from="#pva-crit__36r25XP6T0HIVHO0Q32VAPVXCQA" to="#pva-crit__36r266NXCPVAHI1IT0UDX2GZ6O8" type="testimonia">
+	    <lem>pūrvadṛṣṭā° … tadadhyavasāyāt</lem>
+	    <note resp="#pma" xml:lang="en" type="public">Cf. <bibl><ref
+	    target="#ravigupta:pvv_tibetan_general"/><citedRange>D phe 33a3,
+	    P phe 40a7–8</citedRange></bibl></note>
+	  </app>
+	  <app xml:id="pva-crit__57921" from="#pva-crit__13165" to="#pva-crit__13216" type="var">
+	    <lem>bhavet<pc type="daṇḍa">.</pc> tadasaṃsparśe</lem>
+	    <rdgGrp type="supports">
+	    <rdg wit="#pva_ms">bhave<c ana="#missing-virāma">t</c><pc type="daṇḍa">.</pc> tadasaṃsparśe</rdg>
+	    <rdg wit="#pva_tib" xml:lang="bo">'gyur ro/_/de la ma reg na</rdg>
+	    <rdg source="#pva">bhavet<pc type="daṇḍa">.</pc> tadasaṃsparśe</rdg>
+	    </rdgGrp>
+	    <rdgGrp type="opposes">
+	      <rdg wit="#pva_msE">bhaveta||<space unit="akṣara" quantity="4"/>dasaṃsparśe</rdg>
+	    </rdgGrp>
+	  </app>
+	  <app xml:id="pva-crit__52165" from="#pva-crit__12362" to="#pva-crit__12404" type="script">
+	    <lem>tadviṣayatā</lem>
+	    <rdgGrp type="supports">
+	    <rdg wit="#pva_msE">tadviṣayatā</rdg>
+	    <rdg source="#pva">tadviṣayatā</rdg>
+	    <rdg wit="#pva_tib">de yul du yin</rdg>
+	    </rdgGrp>
+	    <rdgGrp type="neutral">
+	    <rdg wit="#pva_ms" type="neutral">tadviṣaya.<gap extent="6 akṣaras"/>tā</rdg>
+	    </rdgGrp>
+	  </app>
+	  <app xml:id="pva-crit__58240" from="#pva-crit__13454" to="#pva-crit__13501" type="var">
+	    <lem>dvitīyā bhrāntir</lem>
+	    <rdgGrp type="supports">
+	    <rdg source="#pva">dvitīyā bhrāntir</rdg>
+	    <rdg wit="#pva_ms">dvitīyā bhrāntir</rdg>
+	    <rdg wit="#pva_tib" xml:lang="bo">gnyis pa 'khrul pa</rdg>
+	    </rdgGrp>
+	    <rdgGrp type="opposes">
+	      <rdg type="opposes" wit="#pva_msE">dvitīyabhrāntir</rdg>
+	    </rdgGrp>
+	  </app>
+
+	  <app xml:id="pva-crit__36r25X5QEQ4DB5AWFIA2DV3KMJQ" from="#pva-crit__36r25X5QDTYXN5N33X3VPNOA9CE" to="#pva-crit__36r25X5QDVG1YCGOO0RI3FPDSSJ" type="tib-diff">
+	    <lem>ayathābhiniveśinī</lem>
+	    <rdgGrp type="supports">
+	      <rdg wit="#pva_ms #pva_msE #pva" type="supports">ayathābhiniveśinī</rdg>
+	    </rdgGrp>
+	    <rdgGrp type="opposes">
+	    <rdg wit="#pva_tib" type="opposes" xml:lang="bo">ji bzhin ma yin par <app><lem wit="#pva_sde_dge">mngon par</lem>
+	    <rdg type="opposes" wit="#pva_peking" cause="omission"/></app>zhen pas na</rdg>
+	    </rdgGrp>
+	  </app>
+
+	  <app xml:id="pva-crit__36r1PPGGBVYDJO3EZXHUVN73U8S" from="#pva-crit__36r1PPGG9L0WGJOSRUQ1EI80UEC" to="#pva-crit__36r1PPGG9L1LQY994AZU2FMPE7K" type="var-e">
+	    <lem>°balād bhāvitvād</lem>
+	    <rdgGrp type="supports">
+	      <rdg type="supports" wit="#pva_ms">°balād bhāvitvād</rdg>
+	      <rdg type="supports" wit="#pva_tib">stobs las <app><lem wit="#pva_sde_dge">'byung</lem>
+	    <rdg wit="pva_peking" type="opposes">byung</rdg></app> ba yin pas na/</rdg>
+	    </rdgGrp>
+	    <rdgGrp type="opposes">
+	    <rdg type="opposes" wit="#pva_msE">°balabhāvitvād</rdg>
+	    <rdg type="opposes" source="#pva">°balabhāvitvād</rdg>
+	    </rdgGrp>
+	  </app>
+
+	  <app xml:id="pva-crit__36r1PPGGN8GHN05UX537W5C09WY" from="#pva-crit__36r1PPGGJLXEIMT4Y6K6UA8FQR5" to="#pva-crit__36r1PPGGJLY5QVA46RDZ3P928P8" type="var-s" ana="#misprint">
+	    <lem>°saṃsparśe 'pi</lem>
+	    <rdgGrp type="supports">
+	      <rdg wit="#pva_ms">°saṃsparśe 'pi</rdg>
+	      <rdg wit="#pva_msE">°saṃsparśe 'pi</rdg>
+	    </rdgGrp>
+	    <rdgGrp type="opposes">
+	      <rdg source="#pva">°saṃspaśopi</rdg>
+	      <rdg wit="#pva_tib">reg kyang</rdg>
+	    </rdgGrp>
+	  </app>
+
+	  <app xml:id="pva-crit__58539" from="#pva-crit__13764" to="#pva-crit__13810" type="var">
+	    <lem>tadadhyavasāyāt<pc type="daṇḍa">.</pc></lem>
+	    <rdgGrp type="supports">
+	      <rdg wit="#pva_ms">tadadhyavasāyāt<pc type="daṇḍa">.</pc></rdg>
+	      <rdg source="#pva">tadadhyavasāyāt<pc type="daṇḍa">.</pc></rdg>
+	    </rdgGrp>
+	    <rdgGrp type="neutral">
+	      <rdg type="neutral" wit="#pva_tib"><app><lem wit="#pva_sde_dge">der</lem><rdg type="opposes" wit="pva_peking">des</rdg></app> lhag par zhen pa'i phyir ro/</rdg>
+	    </rdgGrp>
+	    <rdgGrp type="opposes">
+	      <rdg  wit="#pva_msE">tadadhyavasāyataḥ<pc type="daṇḍa">.</pc></rdg>
+	    </rdgGrp>
+	  </app>
+	</listApp>
+      </div>
+    </back>
+  </text>
+</TEI>
