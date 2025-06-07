@@ -12,9 +12,9 @@ results.pdf: results.tex
 
 results.tex:
 	$(TM) run-conversions.scm \
-	--bib=bib.bib \
 	--homeurl="https://github.com/paddymcall/tei-reprod/tree/main/example-bib-format" \
-	--homename="GitHub repo" \
+	--homename="TEI Reprod Tests (GitHub repo)" \
+	--bib=./bib.bib \
 	--standalone \
 	-t tei-sameAs-inline-apps \
 	-t ana-rm-private \

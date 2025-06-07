@@ -8,27 +8,22 @@
 	<p>TODO</p>
       </editionStmt>
       <publicationStmt>
-	<p>This work is licensed under a Creative Commons
-	Attribution-ShareAlike 3.0 Unported License.</p>
+	<publisher>Patrick McAllister</publisher>
+	<date when="2025-06"/>
+	<availability>
+	  <licence
+	  target="https://creativecommons.org/licenses/by-sa/4.0/">This
+	  work is licensed under CC BY-SA 4.0.</licence>
+	</availability>
       </publicationStmt>
-      <sourceDesc corresp="bib.bib">
-	<listWit>
+      <sourceDesc>
+	<listWit corresp="bib.bib">
           <witness xml:id="pva_ms"/>
           <witness xml:id="pva_msE"/>
           <witness xml:id="pva_tib"/>
         </listWit>
-        <listBibl>
-          <bibl ana="#witlike" xml:id="pva">
-	    <title>Pramāṇavārtikabhāshyam or Vārtikālaṅkāraḥ of
-            Prajñākaragupta (Being a Commentary on Dharmakīrti's
-            Pramāṇavārtikam)
-	    </title>
-	    <author>Prajñākaragupta</author>
-	    <editor xml:id="sANkRtyAyana">Rāhula Sāṅkṛtyāyana</editor>
-	    <publisher>Kashi Prasad Jayaswal Research Institute</publisher>
-	    <address><name>Patna</name></address>
-	    <date>1953</date>
-	  </bibl>
+        <listBibl corresp="bib.bib">
+          <bibl ana="#witlike" xml:id="pva"/>
         </listBibl>
       </sourceDesc>
     </fileDesc>
@@ -36,13 +31,13 @@
   <text xml:id="pva-crit" xml:lang="sa-Latn">
     <body xml:lang="sa-Latn">
       <div>
-	<p corresp="pva_sde_dge_bstan-'gyur_toh4221_tshad-ma_te001--the282a7.xml#pva-tib__706172 pva.xml#pva__750767 pva_msE_diplomatic.xml#pva_msE__12154 pva_diplomatic.xml#pva-dipl__11887" xml:id="pva-crit__11813"><lb ed="#pva" n="215,18"/><anchor xml:id="pva-crit__36r266NWHER96Z16VYSVICVHDDB"/>kathaṃ tarhi para<lb ed="#pva_msE" n="211a3"/>mārthasya viṣayīkaraṇād bhedaḥ<pc type="daṇḍa">.</pc> svarūpasākṣātkaraṇe hi <anchor xml:id="pva-crit__13067"/>pratyakṣataiva<anchor xml:id="pva-crit__13113"/> <anchor xml:id="pva-crit__13165"/>bhavet<lb ed="#pva" n="215,19"/><pc type="daṇḍa">.</pc> tadasaṃsparśe<anchor xml:id="pva-crit__13216"/> kathaṃ <anchor xml:id="pva-crit__12362"/>tadviṣayatā<anchor xml:id="pva-crit__12404"/><pc type="daṇḍa">?</pc> atrocyate<anchor xml:id="pva-crit__36r266NWHG3GKXNHJ5HKJAONTGZ"/>—
+	<p corresp="pva_sde_dge_bstan-'gyur_toh4221_tshad-ma_te001--the282a7.xml#pva-tib__706172 pva.xml#pva__750767 pva_msE_diplomatic.xml#pva_msE__12154 pva_diplomatic.xml#pva-dipl__11887" xml:id="pva-crit__11813"><lb n="215,18" edRef="#pva"/><anchor xml:id="pva-crit__36r266NWHER96Z16VYSVICVHDDB"/>kathaṃ tarhi para<lb edRef="#pva_msE" n="211a3"/>mārthasya viṣayīkaraṇād bhedaḥ<pc type="daṇḍa">.</pc> svarūpasākṣātkaraṇe hi <anchor xml:id="pva-crit__13067"/>pratyakṣataiva<anchor xml:id="pva-crit__13113"/> <anchor xml:id="pva-crit__13165"/>bhavet<lb edRef="#pva" n="215,19"/><pc type="daṇḍa">.</pc> tadasaṃsparśe<anchor xml:id="pva-crit__13216"/> kathaṃ <anchor xml:id="pva-crit__12362"/>tadviṣayatā<anchor xml:id="pva-crit__12404"/><pc type="daṇḍa">?</pc> atrocyate<anchor xml:id="pva-crit__36r266NWHG3GKXNHJ5HKJAONTGZ"/>—
 	<quote type="basetext">
           <lg n="PV III 55ab" xml:id="pva__pv-3.55ab" corresp="#pv-3.55ab pva_sde_dge_bstan-'gyur_toh4221_tshad-ma_te001--the282a7.xml#pvat__pv-3.55ab pva.xml#pva__pv-3.55ab">
-	    <l><lb ed="#pva" n="215,20"/>ayathābhiniveśena <anchor xml:id="pva-crit__13454"/>dvitīyā bhrāntir<anchor xml:id="pva-crit__13501"/> iṣyate<pc type="daṇḍa">.</pc></l>
+	    <l><lb edRef="#pva" n="215,20"/>ayathābhiniveśena <anchor xml:id="pva-crit__13454"/>dvitīyā bhrāntir<anchor xml:id="pva-crit__13501"/> iṣyate<pc type="daṇḍa">.</pc></l>
 	  </lg>
         </quote>
-	<lb ed="#pva" n="215,21"/>yathāsāv artha idānīm iha kāraṇa<lb ed="#pva_msE" n="211a4"/>bhedato bhi<lb ed="#pva_ms"  n="106b5" xml:id="ms_106b_5"/>nnaḥ, tathāsāv abhiniveśo na bhavatīty <anchor xml:id="pva-crit__36r25X5QDTYXN5N33X3VPNOA9CE"/><quote type="basetext">ayathā<lb ed="#pva" n="215,22"/>bhiniveśi</quote>nī<anchor xml:id="pva-crit__36r25X5QDVG1YCGOO0RI3FPDSSJ"/> <quote type="basetext">bhrāntir</quote> eva<pc type="half-daṇḍa">,</pc> <anchor xml:id="pva-crit__36r25XP6T0HIVHO0Q32VAPVXCQA"/>pūrvadṛṣṭārthajanitavāsanāprabodha<anchor xml:id="pva-crit__36r1PPGG9L0WGJOSRUQ1EI80UEC"/>balād bhāvitvād<anchor xml:id="pva-crit__36r1PPGG9L1LQY994AZU2FMPE7K"/> avastu<anchor xml:id="pva-crit__36r1PPGGJLXEIMT4Y6K6UA8FQR5"/>saṃsparśe 'pi<anchor xml:id="pva-crit__36r1PPGGJLY5QVA46RDZ3P928P8"/> <anchor xml:id="pva-crit__13764"/>tadadhya<lb ed="#pva" n="215,23"/>vasāyāt<anchor xml:id="pva-crit__36r266NXCPVAHI1IT0UDX2GZ6O8"/><pc type="daṇḍa">.</pc><anchor xml:id="pva-crit__13810"/></p>
+	<lb edRef="#pva" n="215,21"/>yathāsāv artha idānīm iha kāraṇa<lb edRef="#pva_msE" n="211a4"/>bhedato bhi<lb edRef="#pva_ms"  n="106b5" xml:id="ms_106b_5"/>nnaḥ, tathāsāv abhiniveśo na bhavatīty <anchor xml:id="pva-crit__36r25X5QDTYXN5N33X3VPNOA9CE"/><quote type="basetext">ayathā<lb edRef="#pva" n="215,22"/>bhiniveśi</quote>nī<anchor xml:id="pva-crit__36r25X5QDVG1YCGOO0RI3FPDSSJ"/> <quote type="basetext">bhrāntir</quote> eva<pc type="half-daṇḍa">,</pc> <anchor xml:id="pva-crit__36r25XP6T0HIVHO0Q32VAPVXCQA"/>pūrvadṛṣṭārthajanitavāsanāprabodha<anchor xml:id="pva-crit__36r1PPGG9L0WGJOSRUQ1EI80UEC"/>balād bhāvitvād<anchor xml:id="pva-crit__36r1PPGG9L1LQY994AZU2FMPE7K"/> avastu<anchor xml:id="pva-crit__36r1PPGGJLXEIMT4Y6K6UA8FQR5"/>saṃsparśe 'pi<anchor xml:id="pva-crit__36r1PPGGJLY5QVA46RDZ3P928P8"/> <anchor xml:id="pva-crit__13764"/>tadadhya<lb edRef="#pva" n="215,23"/>vasāyāt<anchor xml:id="pva-crit__36r266NXCPVAHI1IT0UDX2GZ6O8"/><pc type="daṇḍa">.</pc><anchor xml:id="pva-crit__13810"/></p>
       </div>
     </body>
     <back>
