@@ -72,7 +72,7 @@
                                 ".tar.gz"))
             (sha256 ;; Get this with guix download https://rdorte.org/pma/guile-stei-<version>.tar.gz
              (base32
-              "07mx0jp54pc3fxlmw6dpcl5izdglmq7gmg04gxh336j87mz78g80"))))
+              "0m6brzkxh78z8wv8dd44iv2g59yjj2k7b14255cc9xh3wczw86n1"))))
    (build-system gnu-build-system)
    ;; native-inputs: for the build process (architecture build machine)
    (native-inputs

@@ -7,13 +7,17 @@ all: results.txt
 
 # Ensure @xml:lang is inherited, convert iast to deva, produce xml
 results.xml:
-	$(TM) run-conversions.scm --xml-lang -t tei-iast-to-deva -t tei-standoff -t xml-serialise \
+	$(TM) run-conversions.scm --xml-lang -t tei-iast-to-deva -t xml-serialise \
 	/data/sanskrit-tei-repos/SARIT-corpus/jitari-jatinirakrti.xml > $@
 
-# Much the same, but standoff and output only body
+# Much the same, but standoff tei:notes, convert devanāgarī to iast, and output only body
 results.txt:
-	$(TM) run-conversions.scm --xml-lang -t tei-iast-to-deva -t tei-standoff -t tei-only-body -t xml-to-text \
-	/data/sanskrit-tei-repos/SARIT-corpus/jitari-jatinirakrti.xml > $@
+	$(TM) run-conversions.scm --xml-lang  \
+	-t tei-standoff \
+	-t tei-deva-to-iast \
+	-t tei-only-body \
+	-t xml-to-text \
+	/data/sanskrit-tei-repos/SARIT-corpus/dvadasara_nayacakra.xml > $@
 
 clean:
 	rm -f results.*
