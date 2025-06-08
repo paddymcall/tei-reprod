@@ -1,7 +1,8 @@
 #+TITLE: TEI Workflow Reproducibility Examples
 #+AUTHOR: Patrick McAllister
 
-This repository provdies examples for [TODO -> Article].
+This repository provdies examples for
+[[https://doi.org/10.5281/zenodo.15617482]].
 
 
 The idea is to run all the transformations in the example directories
