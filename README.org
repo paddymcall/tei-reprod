@@ -13,7 +13,7 @@ The suggested way to run the transformations is:
 
 #+begin_src bash
   make clean
-  make all
+  make LANG=en_US.UTF-8 all
   git status
 #+end_src
 
