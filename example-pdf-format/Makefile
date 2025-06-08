@@ -4,7 +4,7 @@ TM = guix time-machine -C ../channels.scm -- shell --pure -E "LANG*" --container
 all: results.txt
 
 results.txt: results.pdf
-	pdftotext $< > $@
+	$(TM) pdftotext $< - | sed 's/^.*git-no-git.*$$//' > $@
 
 # Uses a custom CSL style included in guile-stei:
 results.pdf: results.tex
